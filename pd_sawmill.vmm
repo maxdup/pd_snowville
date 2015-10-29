@@ -58,4 +58,10 @@ Maps
 		"File" "skybox.vmf"
 		"InternalID" "9"
 	}
+	VMF
+	{
+		"Name" "logic"
+		"File" "logic.vmf"
+		"InternalID" "10"
+	}
 }
