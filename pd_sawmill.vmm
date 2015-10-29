@@ -1,0 +1,61 @@
+Info
+{
+	"NextInternalID" "11"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "red spawn"
+		"File" "redspawn.vmf"
+		"InternalID" "1"
+	}
+	VMF
+	{
+		"Name" "red side"
+		"File" "redside.vmf"
+		"InternalID" "2"
+	}
+	VMF
+	{
+		"Name" "blu spawn"
+		"File" "bluspawn.vmf"
+		"InternalID" "3"
+	}
+	VMF
+	{
+		"Name" "blu side"
+		"File" "bluside.vmf"
+		"InternalID" "4"
+	}
+	VMF
+	{
+		"Name" "middle"
+		"File" "middle.vmf"
+		"InternalID" "5"
+	}
+	VMF
+	{
+		"Name" "waterfall"
+		"File" "waterfall.vmf"
+		"InternalID" "6"
+	}
+	VMF
+	{
+		"Name" "pond"
+		"File" "pond.vmf"
+		"InternalID" "7"
+	}
+	VMF
+	{
+		"Name" "shell"
+		"File" "shell.vmf"
+		"InternalID" "8"
+	}
+	VMF
+	{
+		"Name" "skybox"
+		"File" "skybox.vmf"
+		"InternalID" "9"
+	}
+}
