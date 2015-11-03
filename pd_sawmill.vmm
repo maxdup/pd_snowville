@@ -30,8 +30,8 @@ Maps
 	}
 	VMF
 	{
-		"Name" "middle"
-		"File" "middle.vmf"
+		"Name" "controlpoints"
+		"File" "controlpoints.vmf"
 		"InternalID" "5"
 	}
 	VMF
