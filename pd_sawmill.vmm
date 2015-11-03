@@ -36,6 +36,18 @@ Maps
 	}
 	VMF
 	{
+		"Name" "waterfall"
+		"File" "waterfall.vmf"
+		"InternalID" "6"
+	}
+	VMF
+	{
+		"Name" "pond"
+		"File" "pond.vmf"
+		"InternalID" "7"
+	}
+	VMF
+	{
 		"Name" "shell"
 		"File" "shell.vmf"
 		"InternalID" "8"
