@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6938"
-	"mapversion" "5"
+	"editorbuild" "6944"
+	"mapversion" "15"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,18 +14,18 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "5"
-	"mapversion" "5"
+	"mapversion" "2"
 	"classname" "worldspawn"
-	"skyname" "sky_tf2_04"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail_2fort.vbsp"
 	"detailmaterial" "detail/detailsprites_2fort"
+	"detailvbsp" "detail_2fort.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_tf2_04"
 }
 entity
 {
@@ -219,7 +219,7 @@ entity
 	"classname" "env_soundscape_proxy"
 	"MainSoundscapeName" "Inside"
 	"radius" "-1"
-	"origin" "511.75 -516.212 304"
+	"origin" "512 -512 304"
 	editor
 	{
 		"color" "220 30 220"
@@ -236,7 +236,7 @@ entity
 	"color" "67 72 80"
 	"distance" "75"
 	"targetname" "shadow_control"
-	"origin" "553 -513 322"
+	"origin" "552 -512 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -252,7 +252,7 @@ entity
 	"cheapwaterenddistance" "2300"
 	"cheapwaterstartdistance" "2000"
 	"targetname" "water_controller"
-	"origin" "553 -489 322"
+	"origin" "552 -488 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -268,19 +268,19 @@ entity
 	"angles" "0 263 0"
 	"farz" "-1"
 	"fogblend" "1"
-	"fogcolor" "143 151 152"
-	"fogcolor2" "53 60 56"
+	"fogcolor" "29 75 126"
+	"fogcolor2" "23 44 89"
 	"fogdir" "0 270 0"
 	"fogenable" "1"
 	"fogend" "6200"
 	"foglerptime" "2"
 	"fogmaxdensity" "1"
-	"fogstart" "0"
+	"fogstart" "600"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"targetname" "fog_controller"
 	"use_angles" "1"
-	"origin" "553 -465 322.154"
+	"origin" "552 -464 320"
 	editor
 	{
 		"color" "255 255 255"
@@ -294,7 +294,7 @@ entity
 	"id" "1062801"
 	"classname" "env_tonemap_controller"
 	"targetname" "tonemap_global"
-	"origin" "553 -441 322"
+	"origin" "552 -440 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -310,7 +310,7 @@ entity
 	"Negated" "Allow entities that match criteria"
 	"targetname" "filter_team_red"
 	"TeamNum" "2"
-	"origin" "553 -417 322"
+	"origin" "552 -416 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -335,7 +335,7 @@ entity
 		"OnMapSpawn" "sawblade01,Skin,0,0,-1"
 		"OnMapSpawn" "prop_door,SetAnimation,open,0,-1"
 	}
-	"origin" "553 -441 346"
+	"origin" "512 -416 304"
 	editor
 	{
 		"color" "220 30 220"
@@ -351,7 +351,7 @@ entity
 	"targetname" "tf_logic_koth"
 	"timer_length" "180"
 	"unlock_point" "30"
-	"origin" "470.518 -467.575 329"
+	"origin" "512 -464 304"
 	editor
 	{
 		"color" "220 30 220"
@@ -375,7 +375,7 @@ entity
 	"targetname" "master_control_point"
 	"team_base_icon_2" "sprites/obj_icons/icon_base_red"
 	"team_base_icon_3" "sprites/obj_icons/icon_base_blu"
-	"origin" "390.763 -461.774 324"
+	"origin" "512 -440 304"
 	editor
 	{
 		"color" "220 30 220"
@@ -406,7 +406,7 @@ entity
 	"spinup" "0"
 	"targetname" "temp_countdownvo_enable"
 	"volstart" "0"
-	"origin" "286.763 -445.774 324"
+	"origin" "286.763 -448 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -437,7 +437,7 @@ entity
 	"spinup" "0"
 	"targetname" "temp_countdownvo_1"
 	"volstart" "0"
-	"origin" "254.763 -445.774 324"
+	"origin" "254.763 -448 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -468,7 +468,7 @@ entity
 	"spinup" "0"
 	"targetname" "temp_countdownvo_2"
 	"volstart" "0"
-	"origin" "222.763 -445.774 324"
+	"origin" "222.763 -448 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -499,7 +499,7 @@ entity
 	"spinup" "0"
 	"targetname" "temp_countdownvo_3"
 	"volstart" "0"
-	"origin" "190.763 -445.774 324"
+	"origin" "190.763 -448 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -523,7 +523,7 @@ entity
 		"OnTrigger" "temp_countdownvo_2,PlaySound,,33,-1"
 		"OnTrigger" "temp_countdownvo_3,PlaySound,,32,-1"
 	}
-	"origin" "286.763 -469.774 324"
+	"origin" "286.763 -472 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -539,7 +539,7 @@ entity
 	"Negated" "Allow entities that match criteria"
 	"targetname" "filter_team_blue"
 	"TeamNum" "3"
-	"origin" "553 -393 322"
+	"origin" "552 -392 320"
 	editor
 	{
 		"color" "220 30 220"
@@ -3387,6 +3387,28 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 15500]"
+	}
+}
+entity
+{
+	"id" "1063226"
+	"classname" "light_environment"
+	"_ambient" "45 47 125 15"
+	"_ambientHDR" "45 47 125 15"
+	"_AmbientScaleHDR" "1"
+	"_light" "114 198 243 75"
+	"_lightHDR" "114 198 243 75"
+	"_lightscaleHDR" "1"
+	"angles" "0 280 0"
+	"pitch" "-60"
+	"SunSpreadAngle" "15"
+	"origin" "512 -488 304"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 1000]"
 	}
 }
 cameras
