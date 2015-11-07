@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+
+	"$basetexture" "custom/rubber_tile_clr"
+	"$bumpmap" "custom/rubber_tile_ssbump"
+	"$surfaceprop" "metalpanel"
+	"$ssbump" 1
+	"%keywords" "tf"
+}

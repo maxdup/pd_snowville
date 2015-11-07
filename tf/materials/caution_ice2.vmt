@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "custom/caution_ice2"
+	"$decal" "1"
+	"$translucent" "1"
+	"%keywords" "tf"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "custom/solar_farm_sign"
+	"$decal" "1"
+	"$translucent" "1"
+	"%keywords" "tf"
+}
