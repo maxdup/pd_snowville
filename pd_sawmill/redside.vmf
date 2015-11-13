@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6944"
-	"mapversion" "76"
+	"mapversion" "77"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "76"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -11628,7 +11628,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1268 1467.82 332]"
+				"startposition" "[-1268 1467.84 331.881]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -11698,7 +11698,7 @@ world
 					"row1" "9 9 9 9 9 9 1 9 1 9 9 1 9 1 1 0"
 					"row2" "9 1 9 9 9 9 1 1 0 9 9 9 9 1 1 1"
 					"row3" "9 9 9 9 9 9 1 1 0 9 1 9 9 1 9 1"
-					"row4" "9 9 9 9 9 1 1 9 1 1 0 0 0 1 9 1"
+					"row4" "9 9 9 9 9 1 1 9 1 1 0 0 0 9 9 1"
 					"row5" "9 9 9 9 9 9 1 9 1 0 0 0 0 9 9 1"
 					"row6" "1 9 9 9 9 9 1 9 9 0 0 0 0 9 9 1"
 					"row7" "1 9 9 9 9 9 9 9 9 9 0 0 0 1 9 1"
@@ -12116,7 +12116,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1373.48 1093.79 391.984]"
+				"startposition" "[-1373.47 1093.79 391.982]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -12275,7 +12275,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1463.55 1145.81 444]"
+				"startposition" "[-1463.55 1145.8 444]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -13833,7 +13833,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 141 250"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -13992,7 +13992,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 105 214"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14151,7 +14151,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 229 214"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14310,7 +14310,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 181 222"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14480,7 +14480,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 169 206"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14650,7 +14650,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 217 226"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14671,7 +14671,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-559.625 496.005 185.988]"
+				"startposition" "[-559.621 496 185.987]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -14809,7 +14809,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 121 130"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -14830,7 +14830,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-739.761 600.006 81.9962]"
+				"startposition" "[-739.762 600 82]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -14968,7 +14968,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 253 106"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -15000,7 +15000,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-784.639 690.27 20.4762]"
+				"startposition" "[-784.637 690.277 20.4784]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -15127,7 +15127,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 197 126"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -15148,7 +15148,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-636.993 607.127 306.526]"
+				"startposition" "[-637 607.128 306.526]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -15318,7 +15318,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-427.694 484.129 306.526]"
+				"startposition" "[-427.691 484.127 306.523]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -15552,15 +15552,15 @@ world
 				}
 				offset_normals
 				{
-					"row0" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row1" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row2" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row3" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row4" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row5" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row6" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row7" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row8" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+					"row0" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row1" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row2" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row3" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row5" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row6" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row7" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
 				}
 				alphas
 				{
@@ -15711,15 +15711,15 @@ world
 				}
 				offset_normals
 				{
-					"row0" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row1" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row2" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row3" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row4" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row5" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row6" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row7" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-					"row8" "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+					"row0" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row1" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row2" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row3" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row5" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row6" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row7" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
 				}
 				alphas
 				{
@@ -15922,7 +15922,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 125 198"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
