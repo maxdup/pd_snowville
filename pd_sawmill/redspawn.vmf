@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6944"
-	"mapversion" "35"
+	"mapversion" "39"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -12941,26 +12941,6 @@ world
 	}
 	group
 	{
-		"id" "1056933"
-		editor
-		{
-			"color" "218 179 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "1056908"
-		editor
-		{
-			"color" "218 179 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "1056895"
 		editor
 		{
@@ -13280,216 +13260,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 14500]"
-	}
-}
-entity
-{
-	"id" "1056934"
-	"classname" "light"
-	"_light" "255 255 255 800"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1468 2057 -202.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056933"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8268]"
-	}
-}
-entity
-{
-	"id" "1056939"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"fademaxdist" "0.0"
-	"fademindist" "0.0"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_lights/light_fluorescent_basement.mdl"
-	"skin" "0"
-	"solid" "0"
-	"origin" "-1468 2078 -190.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056933"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[3500 -12268]"
-	}
-}
-entity
-{
-	"id" "1056943"
-	"classname" "light_spot"
-	"_cone" "55"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 300"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"angles" "-89 90 0"
-	"pitch" "-89"
-	"origin" "-1468 2057 -198.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056933"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8768]"
-	}
-}
-entity
-{
-	"id" "1056948"
-	"classname" "light"
-	"_light" "255 255 255 800"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1468 2101 -202.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056933"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8268]"
-	}
-}
-entity
-{
-	"id" "1056953"
-	"classname" "light_spot"
-	"_cone" "55"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 300"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"angles" "-89 90 0"
-	"pitch" "-89"
-	"origin" "-1468 2101 -198.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056933"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8768]"
-	}
-}
-entity
-{
-	"id" "1056909"
-	"classname" "light"
-	"_light" "255 255 255 800"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1468 1913 -202.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056908"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8268]"
-	}
-}
-entity
-{
-	"id" "1056914"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"fademaxdist" "0.0"
-	"fademindist" "0.0"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_lights/light_fluorescent_basement.mdl"
-	"skin" "0"
-	"solid" "0"
-	"origin" "-1468 1934 -190.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056908"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[3500 -12268]"
-	}
-}
-entity
-{
-	"id" "1056918"
-	"classname" "light_spot"
-	"_cone" "55"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 300"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"angles" "-89 90 0"
-	"pitch" "-89"
-	"origin" "-1468 1913 -198.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056908"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8768]"
-	}
-}
-entity
-{
-	"id" "1056923"
-	"classname" "light"
-	"_light" "255 255 255 800"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1468 1957 -202.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056908"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8268]"
-	}
-}
-entity
-{
-	"id" "1056928"
-	"classname" "light_spot"
-	"_cone" "55"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 300"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"angles" "-89 90 0"
-	"pitch" "-89"
-	"origin" "-1468 1957 -198.875"
-	editor
-	{
-		"color" "218 179 0"
-		"groupid" "1056908"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8768]"
 	}
 }
 entity
@@ -15875,19 +15645,34 @@ entity
 entity
 {
 	"id" "1057962"
-	"classname" "prop_static"
+	"classname" "prop_dynamic"
 	"angles" "8.92237 13.816 4.9076"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
 	"model" "models/player/items/all_class/xms_santa_hat_engineer.mdl"
+	"modelscale" "1.0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
 	"skin" "0"
 	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
 	"origin" "-2146 1794 188.007"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2500]"

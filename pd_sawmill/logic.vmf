@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6944"
-	"mapversion" "28"
+	"mapversion" "29"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "18"
+	"mapversion" "60"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3021,7 +3021,7 @@ entity
 	"_lightHDR" "114 198 243 75"
 	"_lightscaleHDR" "1"
 	"angles" "0 280 0"
-	"pitch" "-60"
+	"pitch" "-75"
 	"SunSpreadAngle" "15"
 	"origin" "512 -488 304"
 	editor
@@ -3147,7 +3147,7 @@ entity
 		}
 		side
 		{
-			"id" "0"
+			"id" "259"
 			"plane" "(1496 1120 128) (1496 1120 -12) (1400 1216 -12)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -3158,7 +3158,7 @@ entity
 		}
 		side
 		{
-			"id" "0"
+			"id" "260"
 			"plane" "(1496 1120 128) (1648 1120 128) (1648 1120 -12)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
