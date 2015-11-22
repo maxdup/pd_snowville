@@ -1,0 +1,12 @@
+"SpriteCard"
+{
+	"$basetexture" "effects/pd/hud_sawmill_gift_depo"
+	"$surfaceprop"	"no_decal"
+	"$translucent"	1
+	"$vertexcolor"	1
+	"$vertexalpha"	1
+	"$minsize"		"0.07"
+
+	"$ignorez"	"1"
+    "$endalpha"		"0"
+}
