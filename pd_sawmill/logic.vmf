@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6944"
-	"mapversion" "105"
+	"mapversion" "108"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "17"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3276,7 +3276,7 @@ entity
 		side
 		{
 			"id" "258"
-			"plane" "(-816 -1104 32) (-816 -784 32) (-496 -784 32)"
+			"plane" "(-816 -1104 192) (-816 -784 192) (-496 -784 192)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3298,7 +3298,7 @@ entity
 		side
 		{
 			"id" "256"
-			"plane" "(-816 -1104 -136) (-816 -784 -136) (-816 -784 32)"
+			"plane" "(-816 -1104 -136) (-816 -784 -136) (-816 -784 192)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3309,7 +3309,7 @@ entity
 		side
 		{
 			"id" "255"
-			"plane" "(-496 -784 -136) (-496 -1104 -136) (-496 -1104 32)"
+			"plane" "(-496 -784 -136) (-496 -1104 -136) (-496 -1104 192)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3320,7 +3320,7 @@ entity
 		side
 		{
 			"id" "254"
-			"plane" "(-816 -784 -136) (-496 -784 -136) (-496 -784 32)"
+			"plane" "(-816 -784 -136) (-496 -784 -136) (-496 -784 192)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3331,7 +3331,7 @@ entity
 		side
 		{
 			"id" "253"
-			"plane" "(-496 -1104 -136) (-816 -1104 -136) (-816 -1104 32)"
+			"plane" "(-496 -1104 -136) (-816 -1104 -136) (-816 -1104 192)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -5608,7 +5608,7 @@ entity
 	"speed" "0"
 	"target" "path3_19"
 	"targetname" "path3_18"
-	"origin" "-896 -1088 128"
+	"origin" "-912 -1104 108"
 	editor
 	{
 		"color" "255 192 0"
