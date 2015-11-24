@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6944"
-	"mapversion" "6"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "512"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -33,7 +33,7 @@ entity
 	"classname" "func_instance"
 	"angles" "0 0 0"
 	"file" "pd_sawmill/logic"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -49,7 +49,7 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/bluspawn"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -65,7 +65,7 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/bluside"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -81,7 +81,7 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/redspawn"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -97,7 +97,7 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/redside"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -113,7 +113,7 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/controlpoints"
-	"fixup_style" "0"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
@@ -129,7 +129,23 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_sawmill/shell"
-	"fixup_style" "0"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "103"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "pd_sawmill/skybox"
+	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
 	{
