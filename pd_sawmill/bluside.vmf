@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6971"
-	"mapversion" "299"
+	"mapversion" "303"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "15"
+	"mapversion" "14"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -33682,21 +33682,6 @@ entity
 }
 entity
 {
-	"id" "1032477"
-	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "Outside"
-	"radius" "-1"
-	"origin" "276 1000 368"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 12000]"
-	}
-}
-entity
-{
 	"id" "1090276"
 	"classname" "func_detail"
 	solid
@@ -35233,36 +35218,6 @@ entity
 }
 entity
 {
-	"id" "1095622"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "1900"
-	"fademindist" "1700"
-	"fadescale" "1"
-	"generatelightmaps" "0"
-	"ignorenormals" "0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_snowycoast/icicle_a_lrg_256.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
-	"origin" "1196.13 -1628.11 121.671"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
 	"id" "1096845"
 	"classname" "prop_static"
 	"angles" "0 180 0"
@@ -36078,6 +36033,34 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 8000]"
+	}
+}
+entity
+{
+	"id" "1105637"
+	"classname" "prop_static"
+	"angles" "6.14879 202.551 -3.71132"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "1400"
+	"fademindist" "1200"
+	"fadescale" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_arctic/snowmann.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "2339 -445 8"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8000 -4768]"
 	}
 }
 cameras

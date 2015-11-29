@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6971"
-	"mapversion" "166"
+	"mapversion" "174"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "3"
+	"mapversion" "20"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -38206,21 +38206,6 @@ entity
 }
 entity
 {
-	"id" "1032470"
-	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "Outside"
-	"radius" "-1"
-	"origin" "644 -1032 364"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 11500]"
-	}
-}
-entity
-{
 	"id" "1032472"
 	"classname" "light"
 	"_constant_attn" "0"
@@ -39047,36 +39032,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "1066153"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "1900"
-	"fademindist" "1700"
-	"fadescale" "1"
-	"generatelightmaps" "0"
-	"ignorenormals" "0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_snowycoast/icicle_a_lrg_256.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
-	"origin" "-172.13 1620.11 121.671"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
 	}
 }
 entity
@@ -39989,6 +39944,128 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -16268]"
+	}
+}
+entity
+{
+	"id" "1099150"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademaxdist" "1900"
+	"fademindist" "1700"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_forest/icicle_med_straight.mdl"
+	"skin" "0"
+	"solid" "0"
+	"origin" "-175 1583.95 115"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1099154"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademaxdist" "1900"
+	"fademindist" "1700"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_forest/icicle_lrg_straight.mdl"
+	"skin" "0"
+	"solid" "0"
+	"origin" "-175 1651.95 115"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1099158"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"fademaxdist" "1900"
+	"fademindist" "1700"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_forest/icicle_med_straight.mdl"
+	"skin" "0"
+	"solid" "0"
+	"origin" "-175 1521.95 115"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1099210"
+	"classname" "prop_static"
+	"angles" "5.0293 12.856 -3.2763"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "1400"
+	"fademindist" "1200"
+	"fadescale" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_arctic/snowmann.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-1339 461 3"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8000 -12268]"
+	}
+}
+entity
+{
+	"id" "1099165"
+	"classname" "prop_static"
+	"angles" "7.4687 283.692 4.389"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "1400"
+	"fademindist" "1200"
+	"fadescale" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_arctic/snowmann.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "714 1886 -89"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8000 -9768]"
 	}
 }
 cameras
