@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6971"
-	"mapversion" "8"
+	"mapversion" "41"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,12 +20,12 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "17"
+	"mapversion" "14"
 	"classname" "worldspawn"
-	"skyname" "sky_day01_01"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail.vbsp"
 	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
 }
 entity
 {
@@ -167,7 +167,7 @@ entity
 	"id" "33"
 	"classname" "env_soundscape"
 	"radius" "-1"
-	"soundscape" "Sawmill.Inside"
+	"soundscape" "Viaduct.Inside"
 	"StartDisabled" "0"
 	"targetname" "Inside"
 	"origin" "-32 0 96"
@@ -305,7 +305,7 @@ entity
 {
 	"id" "1083608"
 	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "redInsideNoLights"
+	"MainSoundscapeName" "Inside"
 	"radius" "-1"
 	"origin" "-866.57 2098 404.952"
 	editor
@@ -320,7 +320,7 @@ entity
 {
 	"id" "1083611"
 	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "redOutside"
+	"MainSoundscapeName" "Outside"
 	"radius" "-1"
 	"origin" "-797.51 2167.99 401.952"
 	editor
@@ -335,7 +335,7 @@ entity
 {
 	"id" "1083614"
 	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "InsideNoLights"
+	"MainSoundscapeName" "Inside"
 	"radius" "-1"
 	"origin" "-1633.43 1910.62 120"
 	editor
@@ -365,7 +365,7 @@ entity
 {
 	"id" "1083620"
 	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "InsideNoLights"
+	"MainSoundscapeName" "Inside"
 	"radius" "-1"
 	"origin" "-866.57 2097.83 123"
 	editor
@@ -396,9 +396,9 @@ entity
 	"id" "1083626"
 	"classname" "env_soundscape"
 	"radius" "-1"
-	"soundscape" "Sawmill.InsideNoLights"
+	"soundscape" "Viaduct.Inside"
 	"StartDisabled" "0"
-	"targetname" "InsideNoLights"
+	"targetname" "Inside"
 	"origin" "-866.55 1800.88 -84.9668"
 	editor
 	{
@@ -412,7 +412,7 @@ entity
 {
 	"id" "1083637"
 	"classname" "env_soundscape_proxy"
-	"MainSoundscapeName" "InsideNoLights"
+	"MainSoundscapeName" "Inside"
 	"radius" "-1"
 	"origin" "-1216 1728 -64"
 	editor
@@ -443,7 +443,7 @@ entity
 	"id" "1083172"
 	"classname" "env_soundscape"
 	"radius" "-1"
-	"soundscape" "Sawmill.Outside"
+	"soundscape" "Viaduct.Outside"
 	"StartDisabled" "0"
 	"targetname" "Outside"
 	"origin" "1821.71 -1866.35 -84.9668"
@@ -490,7 +490,7 @@ entity
 	"id" "1083189"
 	"classname" "env_soundscape"
 	"radius" "-1"
-	"soundscape" "Sawmill.InsideNoLights"
+	"soundscape" "Viaduct.Inside"
 	"StartDisabled" "0"
 	"targetname" "InsideNoLights1"
 	"origin" "1890.55 -1800.88 -84.9668"
@@ -699,6 +699,83 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 -2268]"
+	}
+}
+entity
+{
+	"id" "1106059"
+	"classname" "env_soundscape"
+	"radius" "-1"
+	"soundscape" "Viaduct.Outside"
+	"StartDisabled" "0"
+	"targetname" "Outside"
+	"origin" "-800 1856 -84.9668"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2000 4000]"
+	}
+}
+entity
+{
+	"id" "1106246"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/machine_hum2.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "250"
+	"spawnflags" "48"
+	"spindown" "0"
+	"spinup" "0"
+	"volstart" "0"
+	"origin" "-1440 1856 -39"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1106283"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/machine_hum2.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "250"
+	"spawnflags" "48"
+	"spindown" "0"
+	"spinup" "0"
+	"volstart" "0"
+	"origin" "2464 -1856 -39"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
