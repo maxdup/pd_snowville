@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6971"
-	"mapversion" "142"
+	"mapversion" "153"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "31"
+	"mapversion" "33"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3217,44 +3217,6 @@ entity
 }
 entity
 {
-	"id" "1064294"
-	"classname" "prop_dynamic"
-	"angles" "0 0 0"
-	"DisableBoneFollowers" "1"
-	"disablereceiveshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/bots/pyro/deer_pyro.mdl"
-	"modelscale" "1.0"
-	"parentname" "train_prop"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "0"
-	"spawnflags" "0"
-	"StartDisabled" "0"
-	"targetname" "pyro_deer_left"
-	"origin" "2816 3312 -153.845"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-2889.73 9659.63]"
-	}
-}
-entity
-{
 	"id" "1064298"
 	"classname" "logic_case"
 	"Case01" "1"
@@ -3288,47 +3250,6 @@ entity
 }
 entity
 {
-	"id" "1064306"
-	"classname" "prop_dynamic"
-	"angles" "0 0 0"
-	"DisableBoneFollowers" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"maxdxlevel" "0"
-	"MinAnimTime" "5"
-	"mindxlevel" "0"
-	"model" "models/player/aus_xmas_boss.mdl"
-	"modelscale" "1.0"
-	"parentname" "train_prop"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "6"
-	"spawnflags" "0"
-	"targetname" "nick"
-	"origin" "2720 3280 -151.999"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-2468.66 -1670.61]"
-	}
-}
-entity
-{
 	"id" "1064310"
 	"classname" "logic_auto"
 	"spawnflags" "1"
@@ -3338,10 +3259,6 @@ entity
 		"OnMultiNewRound" "neck_right,SetParent,pyro_deer_right,0,-1"
 		"OnMultiNewRound" "neck_right,SetParentAttachment,neck,0.1,-1"
 		"OnMultiNewRound" "neck_left,SetParentAttachment,neck,0.1,-1"
-		"OnMultiNewRound" "hand_left,SetParentAttachment,flag,0.1,-1"
-		"OnMultiNewRound" "hand_right,SetParentAttachment,flag,0.1,-1"
-		"OnMultiNewRound" "hand_right,SetParent,nick,0,-1"
-		"OnMultiNewRound" "hand_left,SetParent,nick,0,-1"
 	}
 	"origin" "2760 3280 -31.4139"
 	editor
@@ -3407,11 +3324,11 @@ entity
 	"MoveSoundMinPitch" "60"
 	"MoveSoundMinTime" "0"
 	"orientationtype" "2"
-	"origin" "2688 3280 -136"
+	"origin" "2704 3280 -136"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "0"
+	"rendermode" "10"
 	"spawnflags" "520"
 	"speed" "0"
 	"startspeed" "500"
@@ -3425,7 +3342,7 @@ entity
 		side
 		{
 			"id" "518"
-			"plane" "(2624 3232 -112) (2624 3328 -112) (2752 3328 -112)"
+			"plane" "(2656 3248 -112) (2656 3312 -112) (2752 3312 -112)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 -1 0 -192] 0.25"
@@ -3436,7 +3353,7 @@ entity
 		side
 		{
 			"id" "517"
-			"plane" "(2624 3328 -160) (2624 3232 -160) (2752 3232 -160)"
+			"plane" "(2656 3312 -160) (2656 3248 -160) (2752 3248 -160)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 -1 0 -192] 0.25"
@@ -3447,7 +3364,7 @@ entity
 		side
 		{
 			"id" "516"
-			"plane" "(2624 3232 -160) (2624 3328 -160) (2624 3328 -112.002)"
+			"plane" "(2656 3248 -160) (2656 3312 -160) (2656 3312 -112)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[0 1 0 192] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
@@ -3458,7 +3375,7 @@ entity
 		side
 		{
 			"id" "515"
-			"plane" "(2752 3328 -160) (2752 3232 -160) (2752 3232 -112.002)"
+			"plane" "(2752 3312 -160) (2752 3248 -160) (2752 3248 -112)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[0 1 0 192] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
@@ -3469,7 +3386,7 @@ entity
 		side
 		{
 			"id" "514"
-			"plane" "(2624 3328 -160) (2752 3328 -160) (2752 3328 -112.002)"
+			"plane" "(2656 3312 -160) (2752 3312 -160) (2752 3312 -112)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
@@ -3480,7 +3397,7 @@ entity
 		side
 		{
 			"id" "513"
-			"plane" "(2752 3232 -160) (2624 3232 -160) (2624 3232 -112.002)"
+			"plane" "(2752 3248 -160) (2656 3248 -160) (2656 3248 -112)"
 			"material" "DEV/DEV_BLENDMEASURE2"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
@@ -3526,7 +3443,7 @@ entity
 	"TextureScale" "1"
 	"Type" "0"
 	"Width" "2"
-	"origin" "2736 3296 -110.414"
+	"origin" "2750 3284 -133"
 	editor
 	{
 		"color" "220 30 220"
@@ -3558,7 +3475,7 @@ entity
 	"TextureScale" "1"
 	"Type" "0"
 	"Width" "2"
-	"origin" "2736 3264 -110.414"
+	"origin" "2750 3276 -133"
 	editor
 	{
 		"color" "220 30 220"
@@ -3873,216 +3790,10 @@ entity
 }
 entity
 {
-	"id" "1064341"
-	"classname" "func_brush"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"InputFilter" "0"
-	"invert_exclusion" "0"
-	"origin" "2738 3248 -77.4"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"solidbsp" "0"
-	"Solidity" "0"
-	"spawnflags" "2"
-	"StartDisabled" "0"
-	"targetname" "hand_right"
-	"vrad_brush_cast_shadows" "0"
-	solid
-	{
-		"id" "1064342"
-		side
-		{
-			"id" "536"
-			"plane" "(2736 3244 -75.4139) (2736 3252 -75.4139) (2740 3252 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 -1 0 -448] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "535"
-			"plane" "(2736 3252 -79.4139) (2736 3244 -79.4139) (2740 3244 -79.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 -1 0 -448] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "534"
-			"plane" "(2736 3244 -79.4139) (2736 3252 -79.4139) (2736 3252 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[0 1 0 448] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "533"
-			"plane" "(2740 3252 -79.4139) (2740 3244 -79.4139) (2740 3244 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[0 1 0 448] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "532"
-			"plane" "(2736 3252 -79.4139) (2740 3252 -79.4139) (2740 3252 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "531"
-			"plane" "(2740 3244 -79.4139) (2736 3244 -79.4139) (2736 3244 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9760.14 3324.04]"
-	}
-}
-entity
-{
-	"id" "1064344"
-	"classname" "func_brush"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"InputFilter" "0"
-	"invert_exclusion" "0"
-	"origin" "2738 3312 -77.4"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"solidbsp" "0"
-	"Solidity" "0"
-	"spawnflags" "2"
-	"StartDisabled" "0"
-	"targetname" "hand_left"
-	"vrad_brush_cast_shadows" "0"
-	solid
-	{
-		"id" "1064345"
-		side
-		{
-			"id" "542"
-			"plane" "(2736 3308 -75.4139) (2736 3316 -75.4139) (2740 3316 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 -1 0 -192] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "541"
-			"plane" "(2736 3316 -79.4139) (2736 3308 -79.4139) (2740 3308 -79.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 -1 0 -192] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "540"
-			"plane" "(2736 3308 -79.4139) (2736 3316 -79.4139) (2736 3316 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[0 1 0 192] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "539"
-			"plane" "(2740 3316 -79.4139) (2740 3308 -79.4139) (2740 3308 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[0 1 0 192] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "538"
-			"plane" "(2736 3316 -79.4139) (2740 3316 -79.4139) (2740 3316 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "537"
-			"plane" "(2740 3308 -79.4139) (2736 3308 -79.4139) (2736 3308 -75.4139)"
-			"material" "DEV/DEV_BLENDMEASURE2"
-			"uaxis" "[1 0 0 -272] 0.25"
-			"vaxis" "[0 0 -1 -189.656] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9279.44 3610.31]"
-	}
-}
-entity
-{
 	"id" "1064347"
 	"classname" "logic_measure_movement"
 	"MeasureReference" "ref"
-	"MeasureTarget" "hand_right"
+	"MeasureTarget" "train"
 	"Target" "mrope_deer_right"
 	"targetname" "lmm"
 	"TargetReference" "ref"
@@ -4101,7 +3812,7 @@ entity
 	"id" "1064349"
 	"classname" "logic_measure_movement"
 	"MeasureReference" "ref"
-	"MeasureTarget" "hand_left"
+	"MeasureTarget" "train"
 	"Target" "mrope_deer_left"
 	"targetname" "lmm"
 	"TargetReference" "ref"
@@ -4308,7 +4019,7 @@ entity
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
 	"mindxlevel" "0"
-	"model" "models/props_trainyard/cart_base_separate.mdl"
+	"model" "models/props_trainyard/sled_cart_base_separate.mdl"
 	"modelscale" "1.0"
 	"parentname" "train"
 	"PerformanceMode" "0"
@@ -4323,7 +4034,7 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"targetname" "train_prop"
-	"origin" "2696 3280 -110.414"
+	"origin" "2704 3280 -128"
 	editor
 	{
 		"color" "220 30 220"
@@ -5391,7 +5102,7 @@ entity
 	"speed" "0"
 	"target" "path3_15"
 	"targetname" "path3_14"
-	"origin" "-980 -528 384"
+	"origin" "-1000 -256 488"
 	editor
 	{
 		"color" "255 192 0"
@@ -5411,7 +5122,7 @@ entity
 	"speed" "0"
 	"target" "path3_16"
 	"targetname" "path3_15"
-	"origin" "-1012 -688 320"
+	"origin" "-1032 -416 488"
 	editor
 	{
 		"color" "255 192 0"
@@ -5431,7 +5142,7 @@ entity
 	"speed" "0"
 	"target" "path3_17"
 	"targetname" "path3_16"
-	"origin" "-1024 -864 256"
+	"origin" "-1040 -592 440"
 	editor
 	{
 		"color" "255 192 0"
@@ -5451,7 +5162,7 @@ entity
 	"speed" "0"
 	"target" "path3_18"
 	"targetname" "path3_17"
-	"origin" "-992 -992 192"
+	"origin" "-1008 -720 376"
 	editor
 	{
 		"color" "255 192 0"
@@ -5471,7 +5182,7 @@ entity
 	"speed" "0"
 	"target" "path3_19"
 	"targetname" "path3_18"
-	"origin" "-912 -1104 108"
+	"origin" "-928 -832 292"
 	editor
 	{
 		"color" "255 192 0"
@@ -5491,7 +5202,7 @@ entity
 	"speed" "0"
 	"target" "path3_20"
 	"targetname" "path3_19"
-	"origin" "-784 -1176 64"
+	"origin" "-800 -904 248"
 	editor
 	{
 		"color" "255 192 0"
@@ -5515,7 +5226,7 @@ entity
 	{
 		"OnPass" "relay_train_stop,Trigger,,0,-1"
 	}
-	"origin" "-680 -1176 64"
+	"origin" "-696 -904 248"
 	editor
 	{
 		"color" "255 192 0"
@@ -5535,7 +5246,7 @@ entity
 	"speed" "0"
 	"target" "path3_22"
 	"targetname" "path3_21"
-	"origin" "-512 -1176 64"
+	"origin" "-528 -904 248"
 	editor
 	{
 		"color" "255 192 0"
@@ -5555,7 +5266,7 @@ entity
 	"speed" "0"
 	"target" "path3_23"
 	"targetname" "path3_22"
-	"origin" "-288 -1248 192"
+	"origin" "-296 -1056 328"
 	editor
 	{
 		"color" "255 192 0"
@@ -5575,7 +5286,7 @@ entity
 	"speed" "0"
 	"target" "path3_24"
 	"targetname" "path3_23"
-	"origin" "-192 -1472 352"
+	"origin" "-192 -1280 448"
 	editor
 	{
 		"color" "255 192 0"
@@ -5595,7 +5306,7 @@ entity
 	"speed" "0"
 	"target" "path3_25"
 	"targetname" "path3_24"
-	"origin" "32 -1728 512"
+	"origin" "40 -1632 512"
 	editor
 	{
 		"color" "255 192 0"
@@ -6066,7 +5777,7 @@ entity
 	{
 		"OnPass" "relay_train_stop,Trigger,,0,-1"
 	}
-	"origin" "448 192 84"
+	"origin" "448 192 80"
 	editor
 	{
 		"color" "255 192 0"
@@ -6086,7 +5797,7 @@ entity
 	"speed" "0"
 	"target" "path2_37"
 	"targetname" "path2_18"
-	"origin" "512 192 84"
+	"origin" "512 192 80"
 	editor
 	{
 		"color" "255 192 0"
@@ -6473,7 +6184,7 @@ entity
 	"speed" "0"
 	"target" "path2_17"
 	"targetname" "path2_36"
-	"origin" "400 176 104"
+	"origin" "400 176 100"
 	editor
 	{
 		"color" "255 192 0"
@@ -6493,7 +6204,7 @@ entity
 	"speed" "0"
 	"target" "path2_19"
 	"targetname" "path2_37"
-	"origin" "640 192 84"
+	"origin" "640 192 80"
 	editor
 	{
 		"color" "255 192 0"
@@ -6615,7 +6326,7 @@ entity
 	"speed" "0"
 	"target" "path3_21"
 	"targetname" "path3_31"
-	"origin" "-544 -1176 64"
+	"origin" "-560 -904 248"
 	editor
 	{
 		"color" "255 192 0"
@@ -7025,6 +6736,44 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-12250.3 8750.04]"
+	}
+}
+entity
+{
+	"id" "1064294"
+	"classname" "prop_dynamic"
+	"angles" "0 0 0"
+	"DisableBoneFollowers" "1"
+	"disablereceiveshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/bots/pyro/deer_pyro.mdl"
+	"modelscale" "1.0"
+	"parentname" "train_prop"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "pyro_deer_left"
+	"origin" "2816 3312 -153.845"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-2889.73 9659.63]"
 	}
 }
 cameras

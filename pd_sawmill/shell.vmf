@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6971"
-	"mapversion" "29"
+	"mapversion" "30"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "31"
+	"mapversion" "30"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3185,7 +3185,7 @@ entity
 	"effect_name" "env_snow_light_001"
 	"start_active" "1"
 	"targetname" "particle_rain_q1"
-	"origin" "709 1112.8 -112"
+	"origin" "704 1088 -112"
 	editor
 	{
 		"color" "220 30 220"
@@ -3202,7 +3202,7 @@ entity
 	"effect_name" "env_snow_light_001"
 	"start_active" "1"
 	"targetname" "particle_rain_q1"
-	"origin" "1320 980.8 -112"
+	"origin" "1536 896 -112"
 	editor
 	{
 		"color" "220 30 220"
@@ -3219,7 +3219,7 @@ entity
 	"effect_name" "env_snow_light_001"
 	"start_active" "1"
 	"targetname" "particle_rain_q1"
-	"origin" "776 1636.8 -112"
+	"origin" "704 1728 -112"
 	editor
 	{
 		"color" "220 30 220"
