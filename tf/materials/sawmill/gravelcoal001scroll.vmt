@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/gravelcoal001"
+	
+	"%keywords" "tf"	
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar $basetextureTransform
+			texturescrollrate 0.35
+			texturescrollangle 270.00
+		}
+	}
+}

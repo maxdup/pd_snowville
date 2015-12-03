@@ -1,0 +1,5 @@
+particles_manifest
+{
+	file	"!particles/xmas_tree.pcf"
+	file    "!particles/sawmill_particles.pcf"
+}

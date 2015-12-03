@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Island/props/wazer/wazer_01"
+                "$model" 1
+	"$surfaceprop" "metal"
+	"$bumpmap" "Island/props/wazer/wazer_Normal" 
+                "$phong" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.5 1 1]"
+	"$phongexponenttexture" "Island/props/wazer/wazer_01"
+	"$phongalbedotint" "1"
+}
