@@ -1,6 +1,6 @@
 # Sawmill
 
-A player destruction map for Team Fortress 2. Made by Exactol, Mystery biscuit and Fubar
+A player destruction map for Team Fortress 2. Made by Exactol, Vel0city and Fubar
 
 ## The root folder
 - **files.txt** is meant to be used with bspzip.exe for the packaging of assets.
