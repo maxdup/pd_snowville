@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6971"
-	"mapversion" "529"
+	"editorbuild" "6978"
+	"mapversion" "530"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "3"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1552,7 +1552,7 @@ world
 		side
 		{
 			"id" "2368"
-			"plane" "(1828 -1928 1856) (1828 -1928 1438.91) (1828 -1640 1302.91)"
+			"plane" "(1828 -1928 1438.9) (1828 -1640 1302.91) (1828 -1640 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -1563,7 +1563,7 @@ world
 		side
 		{
 			"id" "2367"
-			"plane" "(2656 -1640 1856) (2656 -1640 1302.91) (2656 -1928 1438.91)"
+			"plane" "(2656 -1640 1302.92) (2656 -1928 1438.91) (2656 -1928 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -1574,7 +1574,7 @@ world
 		side
 		{
 			"id" "2366"
-			"plane" "(2656 -1928 1856) (2656 -1928 1438.91) (1828 -1928 1438.91)"
+			"plane" "(2656 -1928 1438.91) (1828 -1928 1438.9) (1828 -1928 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1585,7 +1585,7 @@ world
 		side
 		{
 			"id" "2365"
-			"plane" "(1828 -1640 1856) (1828 -1640 1302.91) (2656 -1640 1302.91)"
+			"plane" "(1828 -1640 1302.91) (2656 -1640 1302.92) (2656 -1640 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1596,7 +1596,7 @@ world
 		side
 		{
 			"id" "2364"
-			"plane" "(1828 -1928 1856) (1828 -1640 1856) (2656 -1640 1856)"
+			"plane" "(1828 -1640 1856) (2656 -1640 1856) (2656 -1928 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -1607,7 +1607,7 @@ world
 		side
 		{
 			"id" "2363"
-			"plane" "(1828 -1640 1302.91) (1828 -1928 1438.9) (2656 -1928 1438.91)"
+			"plane" "(1828 -1928 1438.9) (2656 -1928 1438.91) (2656 -1640 1302.92)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -0.9042 0.427 -20.9919] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -2529,7 +2529,7 @@ world
 		side
 		{
 			"id" "2544"
-			"plane" "(2656 -2247.99 1478.91) (1828 -2247.99 1478.91) (1828 -2247.99 1856)"
+			"plane" "(2656 -2280 1856) (2656 -2280 1464) (1824 -2280 1464)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2540,7 +2540,7 @@ world
 		side
 		{
 			"id" "2543"
-			"plane" "(1828 -1928 1574.91) (2656 -1928 1574.91) (2656 -1928 1856)"
+			"plane" "(1824 -1928 1856) (1824 -1928 1574.9) (2656 -1928 1574.9)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2551,7 +2551,7 @@ world
 		side
 		{
 			"id" "2542"
-			"plane" "(2656 -2247.99 1856) (1828 -2247.99 1856) (1828 -1928 1856)"
+			"plane" "(2656 -1928 1856) (2656 -2280 1856) (1824 -2280 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -2562,9 +2562,9 @@ world
 		side
 		{
 			"id" "2541"
-			"plane" "(2656 -1928 1574.9) (1828 -1928 1574.9) (1828 -2247.99 1478.91)"
+			"plane" "(2656 -2280 1464) (2656 -1928 1574.9) (1824 -1928 1574.9)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[0 -0.9578 -0.2873 24.7808] 0.25"
+			"uaxis" "[0 -0.964738 -0.263065 24.7808] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -2573,7 +2573,7 @@ world
 		side
 		{
 			"id" "2540"
-			"plane" "(1828 -2247.99 1856) (1828 -2247.99 1478.91) (1828 -1928 1574.9)"
+			"plane" "(1824 -1928 1856) (1824 -2280 1856) (1824 -2280 1464)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -2584,7 +2584,7 @@ world
 		side
 		{
 			"id" "2539"
-			"plane" "(2656 -1928 1856) (2656 -1928 1574.91) (2656 -2247.99 1478.91)"
+			"plane" "(2656 -2280 1856) (2656 -1928 1856) (2656 -1928 1574.9)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -3657,7 +3657,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2362 -2028 937.809]"
+				"startposition" "[2362 -2028 937.81]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -3782,7 +3782,7 @@ world
 		side
 		{
 			"id" "2768"
-			"plane" "(1896 -2560 1856) (1896 -2560 868) (1896 -2248 868)"
+			"plane" "(1888 -2560 1856) (1888 -2560 868) (1888 -2248 868)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -3804,7 +3804,7 @@ world
 		side
 		{
 			"id" "2766"
-			"plane" "(2656 -2560 1856) (2656 -2560 868) (1896 -2560 868)"
+			"plane" "(2656 -2560 1856) (2656 -2560 868) (1888 -2560 868)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3815,7 +3815,7 @@ world
 		side
 		{
 			"id" "2765"
-			"plane" "(1896 -2248 1856) (1896 -2248 868) (2656 -2248 868)"
+			"plane" "(1888 -2248 1856) (1888 -2248 868) (2656 -2248 868)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3826,7 +3826,7 @@ world
 		side
 		{
 			"id" "2764"
-			"plane" "(1896 -2248 868) (1896 -2560 868) (2656 -2560 868)"
+			"plane" "(1888 -2248 868) (1888 -2560 868) (2656 -2560 868)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -3837,7 +3837,7 @@ world
 		side
 		{
 			"id" "2763"
-			"plane" "(1896 -2560 1856) (1896 -2248 1856) (2656 -2248 1856)"
+			"plane" "(1888 -2560 1856) (1888 -2248 1856) (2656 -2248 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -29342,7 +29342,7 @@ entity
 			"plane" "(2472 -2099 971.434) (2472 -2094 974.861) (2544 -2094 974.859)"
 			"material" "SAWMILL/METALDOOR001SCROLL"
 			"uaxis" "[-1 0 0 543.861] 0.25"
-			"vaxis" "[0 -0.824788 -0.565442 121.001] 0.25"
+			"vaxis" "[0 -0.824788 -0.565442 121] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40040,6 +40040,24 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -9768]"
+	}
+}
+entity
+{
+	"id" "1086453"
+	"classname" "info_observer_point"
+	"angles" "20 135 0"
+	"defaultwelcome" "0"
+	"fov" "75"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "1892 -1628 1246"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 13500]"
 	}
 }
 cameras
