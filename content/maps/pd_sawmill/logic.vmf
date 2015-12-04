@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "189"
+	"mapversion" "193"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -67,8 +67,8 @@ entity
 	"angles" "0 263 0"
 	"farz" "-1"
 	"fogblend" "1"
-	"fogcolor" "29 75 126"
-	"fogcolor2" "23 44 89"
+	"fogcolor" "43 109 183"
+	"fogcolor2" "38 74 149"
 	"fogdir" "0 270 0"
 	"fogenable" "1"
 	"fogend" "6200"
@@ -2875,8 +2875,8 @@ entity
 {
 	"id" "1063226"
 	"classname" "light_environment"
-	"_ambient" "45 47 125 15"
-	"_ambientHDR" "45 47 125 15"
+	"_ambient" "66 69 183 30"
+	"_ambientHDR" "66 69 183 30"
 	"_AmbientScaleHDR" "1"
 	"_light" "114 198 243 75"
 	"_lightHDR" "114 198 243 75"
@@ -4726,6 +4726,10 @@ entity
 	"speed" "0"
 	"target" "path1_21"
 	"targetname" "path1_20"
+	connections
+	{
+		"OnPass" "train_prop,DisableCollision,,0,-1"
+	}
 	"origin" "1184 1920 1280"
 	editor
 	{
@@ -4746,6 +4750,10 @@ entity
 	"speed" "0"
 	"target" "path1_22"
 	"targetname" "path1_21"
+	connections
+	{
+		"OnPass" "train_prop,EnableCollision,,0,-1"
+	}
 	"origin" "1184 2240 1280"
 	editor
 	{
