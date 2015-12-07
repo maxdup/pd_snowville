@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "49"
+	"mapversion" "51"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -3128,82 +3128,6 @@ world
 		{
 			"id" "577"
 			"plane" "(3072 -2560 1718) (-2048 -2560 1718) (-2048 -2560 1734)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 24] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 208 209"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "1064282"
-		side
-		{
-			"id" "594"
-			"plane" "(-2048 4096 1542) (3072 4096 1542) (3072 4096 1558)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 24] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "593"
-			"plane" "(3072 4096 1542) (-2048 4096 1542) (-2048 -2560 1542)"
-			"material" "TOOLS/TOOLSHINT"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "592"
-			"plane" "(-2048 -2560 1558) (-2048 4096 1558) (3072 4096 1558)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "591"
-			"plane" "(-2048 -2560 1542) (-2048 4096 1542) (-2048 4096 1558)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 -24] 0.25"
-			"vaxis" "[0 -1 0 -7] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "590"
-			"plane" "(3072 4096 1558) (3072 4096 1542) (3072 -2560 1542)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 -24] 0.25"
-			"vaxis" "[0 -1 0 -7] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "589"
-			"plane" "(3072 -2560 1542) (-2048 -2560 1542) (-2048 -2560 1558)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 24] 0.25"
