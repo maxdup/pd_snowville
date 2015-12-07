@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "30"
+	"mapversion" "33"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "2"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1080,11 +1080,11 @@ entity
 	"cpoint5_parent" "0"
 	"cpoint6_parent" "0"
 	"cpoint7_parent" "0"
-	"effect_name" "aurora_3c"
+	"effect_name" "aurora_4b"
 	"flag_as_weather" "0"
 	"start_active" "0"
 	"targetname" "aurora"
-	"origin" "-248.21 -55.924 2600.71"
+	"origin" "-248.21 -56 2728"
 	editor
 	{
 		"color" "220 30 220"
