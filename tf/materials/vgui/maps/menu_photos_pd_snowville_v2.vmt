@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
- 	"$basetexture" "vgui/maps/menu_photos_pd_sawmill_v1"
+ 	"$basetexture" "vgui/maps/menu_photos_pd_snowville"
 	"$translucent" 1
  	"$ignorez" 1
 	"$vertexcolor" 1

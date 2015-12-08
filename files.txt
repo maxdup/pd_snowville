@@ -1,11 +1,15 @@
-maps/pd_snowville_v1_particles.txt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\maps/pd_snowville_v1_particles.txt
+maps/pd_snowville_v2_particles.txt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\maps/pd_snowville_v2_particles.txt
 particles/xmas_tree.pcf
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\particles/xmas_tree.pcf
 materials/effects/animglow02_noz.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/animglow02_noz.vmt
 particles/sawmill_particles.pcf
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\particles/sawmill_particles.pcf
+materials/vgui/maps/menu_photos_pd_snowville_v2.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville_v2.vmt
+materials/vgui/maps/menu_photos_pd_snowville.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville.vtf
 materials/effects/pd/hud_sawmill_gift_depo.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vmt
 materials/effects/pd/hud_sawmill_gift_depo.vtf
