@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "222"
+	"mapversion" "234"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "2"
+	"mapversion" "21"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2915,7 +2915,7 @@ entity
 		side
 		{
 			"id" "246"
-			"plane" "(1400 1216 1152) (1400 1328 1152) (1652 1580 1152)"
+			"plane" "(1400 1328 1152) (1652 1580 1152) (1880 1352 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -2926,7 +2926,7 @@ entity
 		side
 		{
 			"id" "245"
-			"plane" "(1880 1352 1012) (1652 1580 1012) (1400 1328 1012)"
+			"plane" "(1652 1580 1012) (1400 1328 1012) (1328 1136 1012)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -2937,7 +2937,7 @@ entity
 		side
 		{
 			"id" "244"
-			"plane" "(1400 1216 1012) (1400 1328 1012) (1400 1328 1152)"
+			"plane" "(1400 1328 1012) (1400 1328 1152) (1328 1136 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -2948,7 +2948,7 @@ entity
 		side
 		{
 			"id" "243"
-			"plane" "(1652 1580 1012) (1880 1352 1012) (1880 1352 1152)"
+			"plane" "(1880 1352 1012) (1880 1352 1152) (1652 1580 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -2959,7 +2959,7 @@ entity
 		side
 		{
 			"id" "242"
-			"plane" "(1400 1328 1012) (1652 1580 1012) (1652 1580 1152)"
+			"plane" "(1652 1580 1012) (1652 1580 1152) (1400 1328 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -2970,7 +2970,7 @@ entity
 		side
 		{
 			"id" "241"
-			"plane" "(1880 1352 1012) (1648 1120 1012) (1648 1120 1152)"
+			"plane" "(1648 1120 1012) (1648 1120 1152) (1880 1352 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -2981,7 +2981,7 @@ entity
 		side
 		{
 			"id" "259"
-			"plane" "(1496 1120 1012) (1400 1216 1012) (1400 1216 1152)"
+			"plane" "(1328 1136 1012) (1328 1136 1152) (1424 1040 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -2992,7 +2992,7 @@ entity
 		side
 		{
 			"id" "260"
-			"plane" "(1648 1120 1012) (1496 1120 1012) (1496 1120 1152)"
+			"plane" "(1424 1040 1012) (1424 1040 1152) (1648 1120 1152)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3137,7 +3137,7 @@ entity
 		side
 		{
 			"id" "258"
-			"plane" "(-816 -1104 1216) (-816 -784 1216) (-496 -784 1216)"
+			"plane" "(-816 -1104 1344) (-816 -784 1344) (-496 -784 1344)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3159,7 +3159,7 @@ entity
 		side
 		{
 			"id" "256"
-			"plane" "(-816 -1104 888) (-816 -784 888) (-816 -784 1216)"
+			"plane" "(-816 -1104 888) (-816 -784 888) (-816 -784 1344)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3170,7 +3170,7 @@ entity
 		side
 		{
 			"id" "255"
-			"plane" "(-496 -784 888) (-496 -1104 888) (-496 -1104 1216)"
+			"plane" "(-496 -784 888) (-496 -1104 888) (-496 -1104 1344)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3181,7 +3181,7 @@ entity
 		side
 		{
 			"id" "254"
-			"plane" "(-816 -784 888) (-496 -784 888) (-496 -784 1216)"
+			"plane" "(-816 -784 888) (-496 -784 888) (-496 -784 1344)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3192,7 +3192,7 @@ entity
 		side
 		{
 			"id" "253"
-			"plane" "(-496 -1104 888) (-816 -1104 888) (-816 -1104 1216)"
+			"plane" "(-496 -1104 888) (-816 -1104 888) (-816 -1104 1344)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3577,7 +3577,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "10"
 	"solidbsp" "0"
-	"Solidity" "0"
+	"Solidity" "1"
 	"spawnflags" "2"
 	"StartDisabled" "0"
 	"targetname" "neck_left"
@@ -3680,7 +3680,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "10"
 	"solidbsp" "0"
-	"Solidity" "0"
+	"Solidity" "1"
 	"spawnflags" "2"
 	"StartDisabled" "0"
 	"targetname" "neck_right"
@@ -4102,6 +4102,7 @@ entity
 		"OnTrigger" "relay_train_start,Trigger,,0,-1"
 		"OnTrigger" "hud_depo,Start,,0,-1"
 		"OnTrigger" "sleigh_outline,Enable,,0,-1"
+		"OnTrigger" "Announcer_coming,PlaySound,,0,-1"
 	}
 	"origin" "544 136 1312"
 	editor
@@ -4147,6 +4148,7 @@ entity
 		"OnTrigger" "capture_open3,Trigger,,0,-1"
 		"OnTrigger" "capture_open2,Trigger,,0,-1"
 		"OnTrigger" "capture_reset,Enable,,0,-1"
+		"OnTrigger" "Announcer_enable,PlaySound,,0,-1"
 	}
 	"origin" "576 128 1336"
 	editor
@@ -4267,7 +4269,7 @@ entity
 	"id" "1064746"
 	"classname" "tf_logic_player_destruction"
 	"blue_respawn_time" "10"
-	"finale_length" "15"
+	"finale_length" "0"
 	"flag_reset_delay" "60"
 	"heal_distance" "450"
 	"min_points" "10"
@@ -4280,7 +4282,7 @@ entity
 	{
 		"OnCountdownTimerExpired" "gamestate_changer,ToggleTest,,0,-1"
 		"OnBlueHitMaxPoints" "relay_finale,Trigger,,0,-1"
-		"OnRedHitMaxPoints" "relay_finale,Trigger,,10,-1"
+		"OnRedHitMaxPoints" "relay_finale,Trigger,,0,-1"
 	}
 	"origin" "480 128 1336"
 	editor
@@ -6352,8 +6354,7 @@ entity
 	connections
 	{
 		"OnTrigger" "relay_caphud_stop,Trigger,,0,-1"
-		"OnTrigger" "aurora,Start,,14,-1"
-		"OnTrigger" "aurora_side,Start,,0,-1"
+		"OnTrigger" "aurora,Start,,0,-1"
 	}
 	"origin" "576 128 1336"
 	editor
@@ -6857,6 +6858,68 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-3006.57 6902.72]"
+	}
+}
+entity
+{
+	"id" "1113343"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "vo/mvm_wave_start10.mp3"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "1250"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "Announcer_coming"
+	"volstart" "0"
+	"origin" "-96 -96 688"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-5689.23 9035.19]"
+	}
+}
+entity
+{
+	"id" "1113371"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "vo/announcer_am_capenabled03.mp3"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "1250"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "Announcer_enable"
+	"volstart" "0"
+	"origin" "-96 -96 688"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-11595.3 7484.18]"
 	}
 }
 cameras
