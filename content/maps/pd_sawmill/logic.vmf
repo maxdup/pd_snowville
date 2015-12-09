@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "234"
+	"mapversion" "260"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "21"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -4647,6 +4647,7 @@ entity
 	connections
 	{
 		"OnPass" "relay_train_stop,Trigger,,0,-1"
+		"OnPass" "annotation1,Show,,0,-1"
 	}
 	"origin" "1424 1104 1016"
 	editor
@@ -5234,6 +5235,7 @@ entity
 	connections
 	{
 		"OnPass" "relay_train_stop,Trigger,,0,-1"
+		"OnPass" "annotation3,Show,,0,-1"
 	}
 	"origin" "-696 -904 1272"
 	editor
@@ -5785,6 +5787,7 @@ entity
 	connections
 	{
 		"OnPass" "relay_train_stop,Trigger,,0,-1"
+		"OnPass" "annotation2,Show,,0,-1"
 	}
 	"origin" "448 192 1104"
 	editor
@@ -6920,6 +6923,60 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-11595.3 7484.18]"
+	}
+}
+entity
+{
+	"id" "1114000"
+	"classname" "training_annotation"
+	"angles" "0 0 0"
+	"display_text" "Gift Delivery Zone Active"
+	"lifetime" "30"
+	"offset" "0"
+	"targetname" "annotation3"
+	"origin" "-656 -944 913"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1114098"
+	"classname" "training_annotation"
+	"angles" "0 0 0"
+	"display_text" "Gift Delivery Zone Active"
+	"lifetime" "30"
+	"offset" "0"
+	"targetname" "annotation2"
+	"origin" "512 0 1140"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1114126"
+	"classname" "training_annotation"
+	"angles" "0 0 0"
+	"display_text" "Gift Delivery Zone Active"
+	"lifetime" "30"
+	"offset" "0"
+	"targetname" "annotation1"
+	"origin" "1560 1284 1040"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
