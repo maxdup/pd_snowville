@@ -150,10 +150,10 @@ materials/arctic/arctic_ice.vtf
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/arctic_ice.vtf
 materials/arctic/arctic_ice_spec.vtf
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/arctic_ice_spec.vtf
-materials/artic/glass_frost.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/artic/glass_frost.vmt
-materials/artic/glass_frost.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/artic/glass_frost.vtf
+materials/arctic/glass_frost.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/glass_frost.vmt
+materials/arctic/glass_frost.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/glass_frost.vtf
 materials/skybox/sky_stormfront_02bk.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02bk.vmt
 materials/skybox/sky_stormfront_02dn.vmt
