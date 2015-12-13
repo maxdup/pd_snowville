@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "199"
+	"mapversion" "200"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -29366,7 +29366,7 @@ entity
 	"_zero_percent_distance" "0"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "-1216 1872 1505.14"
+	"origin" "-1224 1872 1505.14"
 	editor
 	{
 		"color" "220 30 220"
@@ -29391,7 +29391,7 @@ entity
 	"_zero_percent_distance" "0"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "-1136 1872 1505.14"
+	"origin" "-1144 1872 1505.14"
 	editor
 	{
 		"color" "220 30 220"
@@ -29416,7 +29416,7 @@ entity
 	"_zero_percent_distance" "0"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "-1296 1872 1505.14"
+	"origin" "-1304 1872 1505.14"
 	editor
 	{
 		"color" "220 30 220"

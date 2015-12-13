@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "274"
+	"mapversion" "277"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2876,8 +2876,8 @@ entity
 {
 	"id" "1063226"
 	"classname" "light_environment"
-	"_ambient" "62 105 187 40"
-	"_ambientHDR" "62 105 187 40"
+	"_ambient" "96 133 202 40"
+	"_ambientHDR" "96 133 202 40"
 	"_AmbientScaleHDR" "1"
 	"_light" "140 208 244 75"
 	"_lightHDR" "140 208 244 75"
@@ -3952,33 +3952,6 @@ entity
 }
 entity
 {
-	"id" "1064407"
-	"classname" "info_particle_system"
-	"angles" "0 0 0"
-	"cpoint1" "hud_depo"
-	"cpoint1_parent" "0"
-	"cpoint2_parent" "0"
-	"cpoint3_parent" "0"
-	"cpoint4_parent" "0"
-	"cpoint5_parent" "0"
-	"cpoint6_parent" "0"
-	"cpoint7_parent" "0"
-	"effect_name" "hud_gift_depo"
-	"flag_as_weather" "0"
-	"parentname" "train"
-	"start_active" "0"
-	"targetname" "hud_depo"
-	"origin" "2656 3280 896.586"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-5151.9 9669.92]"
-	}
-}
-entity
-{
 	"id" "1064472"
 	"classname" "team_train_watcher"
 	"goal_node" "path1_5"
@@ -4101,7 +4074,6 @@ entity
 	connections
 	{
 		"OnTrigger" "relay_train_start,Trigger,,0,-1"
-		"OnTrigger" "hud_depo,Start,,0,-1"
 		"OnTrigger" "sleigh_outline,Enable,,0,-1"
 		"OnTrigger" "Announcer_coming,PlaySound,,0,-1"
 	}
@@ -4124,7 +4096,6 @@ entity
 	connections
 	{
 		"OnTrigger" "relay_train_start,Trigger,,0,-1"
-		"OnTrigger" "hud_depo,Stop,,0,-1"
 		"OnTrigger" "sleigh_outline,Disable,,0,-1"
 	}
 	"origin" "544 120 1312"

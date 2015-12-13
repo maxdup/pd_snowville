@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "36"
+	"mapversion" "38"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "5"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1059,7 +1059,7 @@ entity
 	"flag_as_weather" "0"
 	"start_active" "1"
 	"targetname" "aurora_side"
-	"origin" "-248 -56 3640"
+	"origin" "-248 -56 3680"
 	editor
 	{
 		"color" "220 30 220"
@@ -1103,9 +1103,9 @@ entity
 	"fogcolor2" "210 207 243"
 	"fogdir" "1 0 0"
 	"fogenable" "1"
-	"fogend" "13000"
-	"fogmaxdensity" "1"
-	"fogstart" "-2000"
+	"fogend" "4000"
+	"fogmaxdensity" ".5"
+	"fogstart" "2000"
 	"scale" "16"
 	"use_angles" "0"
 	"origin" "-252 -56 3472"
