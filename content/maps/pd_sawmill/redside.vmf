@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "275"
+	"mapversion" "284"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "20"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2204,82 +2204,6 @@ world
 		editor
 		{
 			"color" "0 178 139"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "1061693"
-		side
-		{
-			"id" "5830"
-			"plane" "(64 576 1718) (64 576 768) (64 4096 768)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 1 0 -22] 0.25"
-			"vaxis" "[0 0 -1 50] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5829"
-			"plane" "(96 4096 1718) (96 4096 768) (96 576 768)"
-			"material" "TOOLS/TOOLSHINT"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5828"
-			"plane" "(96 576 1718) (96 576 768) (64 576 768)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 29] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5827"
-			"plane" "(64 4096 1718) (64 4096 768) (96 4096 768)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 29] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5826"
-			"plane" "(64 4096 768) (64 576 768) (96 576 768)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5825"
-			"plane" "(64 576 1718) (64 4096 1718) (96 4096 1718)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 110 255"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -35679,7 +35603,7 @@ entity
 	"EndV" "1"
 	"fademindist" "-1"
 	"material" "arctic/caution_ice2"
-	"sides" ""
+	"sides" "15292"
 	"StartU" "1"
 	"StartV" "0"
 	"uv0" "-37.6498 -33.1743 0"

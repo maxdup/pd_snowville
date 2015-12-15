@@ -1,6 +1,6 @@
 Info
 {
-	"NextInternalID" "12"
+	"NextInternalID" "13"
 }
 Maps
 {
@@ -57,5 +57,11 @@ Maps
 		"Name" "soundscape"
 		"File" "soundscape.vmf"
 		"InternalID" "11"
+	}
+	VMF
+	{
+		"Name" "Optmization"
+		"File" "optmization.vmf"
+		"InternalID" "12"
 	}
 }

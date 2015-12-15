@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "54"
+	"mapversion" "55"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "20"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3062,82 +3062,6 @@ world
 		editor
 		{
 			"color" "0 202 227"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "1064282"
-		side
-		{
-			"id" "582"
-			"plane" "(-2048 4096 1718) (3072 4096 1718) (3072 4096 1734)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 24] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "581"
-			"plane" "(3072 4096 1718) (-2048 4096 1718) (-2048 -2912 1718)"
-			"material" "TOOLS/TOOLSHINT"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "580"
-			"plane" "(-2048 -2912 1734) (-2048 4096 1734) (3072 4096 1734)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[-1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "579"
-			"plane" "(-2048 -2912 1718) (-2048 4096 1718) (-2048 4096 1734)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 -24] 0.25"
-			"vaxis" "[0 -1 0 -7] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "578"
-			"plane" "(3072 4096 1734) (3072 4096 1718) (3072 -2912 1718)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 -24] 0.25"
-			"vaxis" "[0 -1 0 -7] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "577"
-			"plane" "(3072 -2912 1718) (-2048 -2912 1718) (-2048 -2912 1734)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 24] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 208 209"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
