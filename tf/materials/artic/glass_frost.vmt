@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "artic/glass_frost"
-	"$surfaceprop" "glass"
-	"$translucent" 1 
-	"%keywords" "tf"
-}
