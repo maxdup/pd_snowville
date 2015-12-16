@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "607"
+	"mapversion" "608"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -7272,7 +7272,7 @@ world
 		side
 		{
 			"id" "6490"
-			"plane" "(1792 -2104 760) (1792 -1608 760) (1792 -1608 930.998)"
+			"plane" "(1792 -2104 760) (1792 -1600 760) (1792 -1600 931)"
 			"material" "WOOD/WOOD_FLOOR002"
 			"uaxis" "[0 1 0 800] 0.25"
 			"vaxis" "[0 0 1 -140] 0.25"
@@ -7283,7 +7283,7 @@ world
 		side
 		{
 			"id" "6489"
-			"plane" "(2956 -1608 931) (2956 -1608 760) (2956 -2104 760)"
+			"plane" "(2956 -1600 931) (2956 -1600 760) (2956 -2104 760)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -7294,7 +7294,7 @@ world
 		side
 		{
 			"id" "6488"
-			"plane" "(1792 -1608 930.996) (1792 -1608 760) (2956 -1608 760)"
+			"plane" "(1792 -1600 931) (1792 -1600 760) (2956 -1600 760)"
 			"material" "WOOD/WOOD_FLOOR002"
 			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 780] 0.25"
@@ -7305,7 +7305,7 @@ world
 		side
 		{
 			"id" "6487"
-			"plane" "(1792 -1608 760) (1792 -2104 760) (2956 -2104 760)"
+			"plane" "(1792 -1600 760) (1792 -2104 760) (2956 -2104 760)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -7316,7 +7316,7 @@ world
 		side
 		{
 			"id" "6486"
-			"plane" "(1792 -2104 930.997) (1792 -1608 930.998) (2956 -1608 931)"
+			"plane" "(1792 -2104 931) (1792 -1600 931) (2956 -1600 931)"
 			"material" "WOOD/WOOD_FLOOR002"
 			"uaxis" "[0 1 0 800] 0.25"
 			"vaxis" "[1 0 0 512] 0.25"
@@ -40503,6 +40503,27 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -9768]"
+	}
+}
+entity
+{
+	"id" "1093069"
+	"classname" "prop_static"
+	"angles" "0 0 177"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_2fort/miningcrate001.mdl"
+	"skin" "0"
+	"solid" "0"
+	"origin" "2051.69 -1565 927"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras

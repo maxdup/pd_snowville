@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "278"
+	"mapversion" "283"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "2"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2879,8 +2879,8 @@ entity
 	"_ambient" "96 133 202 40"
 	"_ambientHDR" "96 133 202 40"
 	"_AmbientScaleHDR" "1"
-	"_light" "140 208 244 75"
-	"_lightHDR" "140 208 244 75"
+	"_light" "193 230 249 75"
+	"_lightHDR" "193 230 249 75"
 	"_lightscaleHDR" "1"
 	"angles" "0 280 0"
 	"pitch" "-75"
@@ -3038,7 +3038,7 @@ entity
 		side
 		{
 			"id" "252"
-			"plane" "(320 -192 1280) (320 192 1280) (704 192 1280)"
+			"plane" "(304 -320 1280) (304 320 1280) (720 320 1280)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3049,7 +3049,7 @@ entity
 		side
 		{
 			"id" "251"
-			"plane" "(320 192 1104) (320 -192 1104) (704 -192 1104)"
+			"plane" "(304 320 1104) (304 -320 1104) (720 -320 1104)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3060,7 +3060,7 @@ entity
 		side
 		{
 			"id" "250"
-			"plane" "(320 -192 1104) (320 192 1104) (320 192 1280)"
+			"plane" "(304 -320 1104) (304 320 1104) (304 320 1280)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3071,7 +3071,7 @@ entity
 		side
 		{
 			"id" "249"
-			"plane" "(704 192 1104) (704 -192 1104) (704 -192 1280)"
+			"plane" "(720 320 1104) (720 -320 1104) (720 -320 1280)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3082,7 +3082,7 @@ entity
 		side
 		{
 			"id" "248"
-			"plane" "(320 192 1104) (704 192 1104) (704 192 1280)"
+			"plane" "(304 320 1104) (720 320 1104) (720 320 1280)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -3093,7 +3093,7 @@ entity
 		side
 		{
 			"id" "247"
-			"plane" "(704 -192 1104) (320 -192 1104) (320 -192 1280)"
+			"plane" "(720 -320 1104) (304 -320 1104) (304 -320 1280)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -4240,14 +4240,14 @@ entity
 {
 	"id" "1064746"
 	"classname" "tf_logic_player_destruction"
-	"blue_respawn_time" "10"
+	"blue_respawn_time" "8"
 	"finale_length" "0"
 	"flag_reset_delay" "60"
 	"heal_distance" "450"
 	"min_points" "10"
 	"points_per_player" "5"
 	"prop_model_name" "models/items/tf_gift.mdl"
-	"red_respawn_time" "10"
+	"red_respawn_time" "8"
 	"res_file" "resource/UI/HudObjectivePlayerDestruction_sawmill.res"
 	"targetname" "pd_logic"
 	connections
@@ -5718,7 +5718,7 @@ entity
 	"speed" "0"
 	"target" "path2_16"
 	"targetname" "path2_15"
-	"origin" "352 -12 1278"
+	"origin" "272 -16 1278"
 	editor
 	{
 		"color" "255 192 0"
@@ -5738,7 +5738,7 @@ entity
 	"speed" "0"
 	"target" "path2_36"
 	"targetname" "path2_16"
-	"origin" "368 96 1168"
+	"origin" "304 144 1168"
 	editor
 	{
 		"color" "255 192 0"
@@ -5764,7 +5764,7 @@ entity
 		"OnPass" "annotation2,Show,,0,-1"
 		"OnPass" "annotation2,Hide,,8,-1"
 	}
-	"origin" "504 136 1116"
+	"origin" "504 256 1118"
 	editor
 	{
 		"color" "255 192 0"
@@ -5784,7 +5784,7 @@ entity
 	"speed" "0"
 	"target" "path2_37"
 	"targetname" "path2_18"
-	"origin" "568 136 1116"
+	"origin" "568 256 1118"
 	editor
 	{
 		"color" "255 192 0"
@@ -5804,7 +5804,7 @@ entity
 	"speed" "0"
 	"target" "path2_20"
 	"targetname" "path2_19"
-	"origin" "704 128 1200"
+	"origin" "736 192 1200"
 	editor
 	{
 		"color" "255 192 0"
@@ -5828,7 +5828,7 @@ entity
 	{
 		"OnPass" "relay_ceiling_door,Trigger,,0,-1"
 	}
-	"origin" "752 64 1280"
+	"origin" "784 64 1280"
 	editor
 	{
 		"color" "255 192 0"
@@ -6171,7 +6171,7 @@ entity
 	"speed" "0"
 	"target" "path2_17"
 	"targetname" "path2_36"
-	"origin" "400 144 1140"
+	"origin" "384 256 1140"
 	editor
 	{
 		"color" "255 192 0"
@@ -6191,7 +6191,7 @@ entity
 	"speed" "0"
 	"target" "path2_19"
 	"targetname" "path2_37"
-	"origin" "640 136 1116"
+	"origin" "640 256 1118"
 	editor
 	{
 		"color" "255 192 0"
@@ -6667,7 +6667,7 @@ entity
 	"speed" "0"
 	"target" "path2_15"
 	"targetname" "path2_38"
-	"origin" "352 -116 1380"
+	"origin" "336 -128 1380"
 	editor
 	{
 		"color" "255 192 0"
@@ -6927,7 +6927,7 @@ entity
 	"lifetime" "30"
 	"offset" "0"
 	"targetname" "annotation2"
-	"origin" "512 0 1140"
+	"origin" "512 0 1154"
 	editor
 	{
 		"color" "220 30 220"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6978"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -358,7 +358,7 @@ world
 		side
 		{
 			"id" "64"
-			"plane" "(-128 560 1496) (1152 560 1496) (1152 -568 1496)"
+			"plane" "(-128 -568 1504) (-128 560 1504) (1152 560 1504)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -369,7 +369,7 @@ world
 		side
 		{
 			"id" "63"
-			"plane" "(-128 -568 1480) (1152 -568 1480) (1152 560 1480)"
+			"plane" "(-128 560 1488) (-128 -568 1488) (1152 -568 1488)"
 			"material" "TOOLS/TOOLSHINT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -380,10 +380,10 @@ world
 		side
 		{
 			"id" "62"
-			"plane" "(-128 560 1496) (-128 -568 1496) (-128 -568 1480)"
+			"plane" "(-128 -568 1488) (-128 560 1488) (-128 560 1504)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -391,10 +391,10 @@ world
 		side
 		{
 			"id" "61"
-			"plane" "(1152 560 1480) (1152 -568 1480) (1152 -568 1496)"
+			"plane" "(1152 560 1488) (1152 -568 1488) (1152 -568 1504)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -402,10 +402,10 @@ world
 		side
 		{
 			"id" "60"
-			"plane" "(1152 560 1496) (-128 560 1496) (-128 560 1480)"
+			"plane" "(-128 560 1488) (1152 560 1488) (1152 560 1504)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -413,10 +413,10 @@ world
 		side
 		{
 			"id" "59"
-			"plane" "(1152 -568 1480) (-128 -568 1480) (-128 -568 1496)"
+			"plane" "(1152 -568 1488) (-128 -568 1488) (-128 -568 1504)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
