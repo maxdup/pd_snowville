@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6978"
-	"mapversion" "283"
+	"editorbuild" "6990"
+	"mapversion" "284"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "8"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -4246,7 +4246,7 @@ entity
 	"heal_distance" "450"
 	"min_points" "10"
 	"points_per_player" "5"
-	"prop_model_name" "models/items/tf_gift.mdl"
+	"prop_model_name" "models/props_halloween/halloween_gift.mdl"
 	"red_respawn_time" "8"
 	"res_file" "resource/UI/HudObjectivePlayerDestruction_sawmill.res"
 	"targetname" "pd_logic"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6990"
-	"mapversion" "794"
+	"mapversion" "802"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -112083,7 +112083,7 @@ entity
 {
 	"id" "1150639"
 	"classname" "prop_static"
-	"angles" "0 0 2"
+	"angles" "0 90 2"
 	"disableshadows" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -112093,7 +112093,7 @@ entity
 	"model" "models/props_foliage/tree_pine_small_snow.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "512 0 1088"
+	"origin" "510.233 -4.52789 1088"
 	editor
 	{
 		"color" "255 255 0"
@@ -118393,7 +118393,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_birthday/bday03_small.mdl"
-	"skin" "0"
+	"skin" "1"
 	"solid" "0"
 	"origin" "615 -11 1115"
 	editor
@@ -118452,7 +118452,7 @@ entity
 {
 	"id" "1175360"
 	"classname" "prop_static"
-	"angles" "0 15 0"
+	"angles" "0 109.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"generatelightmaps" "0"
@@ -118461,7 +118461,7 @@ entity
 	"model" "models/props_birthday/bday02_small.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "573 -123 1114"
+	"origin" "580 -112 1114"
 	editor
 	{
 		"color" "255 255 0"
@@ -118483,7 +118483,7 @@ entity
 	"model" "models/props_birthday/bday04_small.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "510 -129 1121"
+	"origin" "508 -120 1121"
 	editor
 	{
 		"color" "255 255 0"
@@ -118505,7 +118505,7 @@ entity
 	"model" "models/props_birthday/bday04_small.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "460 -77 1143"
+	"origin" "480 -76 1143"
 	editor
 	{
 		"color" "255 255 0"
@@ -118527,7 +118527,7 @@ entity
 	"model" "models/props_birthday/bday01_small.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "419 -108 1132"
+	"origin" "424 -96 1132"
 	editor
 	{
 		"color" "255 255 0"
@@ -118679,7 +118679,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_birthday/bday03_small.mdl"
-	"skin" "0"
+	"skin" "1"
 	"solid" "0"
 	"origin" "560 89 1116"
 	editor

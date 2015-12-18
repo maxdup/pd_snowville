@@ -6,5 +6,5 @@
 	"$vertexcolor"	1
 	"$vertexalphamat"	1
 	$DEPTHBLEND "0" 
-	$ignorez 1
+	//$ignorez 1
 }
