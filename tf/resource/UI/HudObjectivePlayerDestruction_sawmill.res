@@ -1010,10 +1010,10 @@
 			"tall"			"45"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"../hud/ammo_blue_bg"
+			"image"			"../hud/hud_sawmill_countdownbg"
 			"scaleImage"	"1"	
-			"teambg_2"		"../hud/ammo_red_bg"
-			"teambg_3"		"../hud/ammo_blue_bg"
+			"teambg_2"		"../hud/hud_sawmill_countdownbg"
+			"teambg_3"		"../hud/hud_sawmill_countdownbg"
 			"proportionalToParent"	"1"
 		}
 
