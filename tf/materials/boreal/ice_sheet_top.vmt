@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "arctic/arctic_ice"
-	"$envmapmask" "arctic/arctic_ice_spec"
+	"$basetexture" "boreal/ice_sheet_top"
+	//"$envmapmask" "boreal/ice_sheet_top_spec"
 	"$surfaceprop" "snow"
 	"$envmap" "env_cubemap"
 	"$envmapcontrast" .025

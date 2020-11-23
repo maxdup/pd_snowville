@@ -1,6 +1,6 @@
 # Sawmill
 
-A player destruction map for Team Fortress 2. Made by Exactol, Vel0city and Fubar
+A player destruction map for Team Fortress 2. Made Maxime "Mimas Torres" Dupuis, Zach "Exactol" Matuson, Vel0city and Joe "Fr0z3nR" Radak
 
 ## The root folder
 - **files.txt** is meant to be used with bspzip.exe for the packaging of assets.
