@@ -1,22 +1,13 @@
 "WorldVertexTransition"
 {
-	"$basetexture" "Nature/dirtground010"
-	"$basetexture2" "boreal/snow"
-	
-	"$blendmodulatetexture" "Nature/snowwall_blendmask"
+	"$basetexture" "boreal/snow"
 
-	"$bumpmap" "Nature/dirtground001_height-ssbump"
-	//"$bumpmap" "Nature/dirtground001_alt_height-ssbump"
-	"$bumpmap2" "boreal/snow_normal"
+	"$bumpmap" "boreal/snow_normal"
 	"$ssbump" "1"
 	
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
 	
-	"$basetexturenoenvmap" "1"
-	
 	"$surfaceprop" "snow"
 	"%keywords" "tf"
-	"%tooltexture" "pl_barnblitz/blendsnowtodirt001"
-
 }
