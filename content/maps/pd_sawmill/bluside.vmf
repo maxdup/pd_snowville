@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "478"
+	"mapversion" "479"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "53"
+	"mapversion" "847"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -7114,7 +7114,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[2292 -1468.02 1355.89]"
+				"startposition" "[2291.99 -1468.02 1355.89]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -7602,7 +7602,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[2397.48 -1093.96 1415.98]"
+				"startposition" "[2397.47 -1093.97 1415.98]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
