@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "479"
+	"mapversion" "482"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "847"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -7114,7 +7114,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[2291.99 -1468.02 1355.89]"
+				"startposition" "[2292 -1468.02 1355.89]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -7602,7 +7602,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[2397.47 -1093.97 1415.98]"
+				"startposition" "[2397.48 -1093.96 1415.98]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -31494,122 +31494,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 4500]"
-	}
-}
-entity
-{
-	"id" "1092563"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "-0.387284 0.223615 0.894431"
-	"BasisOrigin" "2075.45 -1110.06 1177.27"
-	"BasisU" "0.92196 0.0939331 0.37572"
-	"BasisV" "0 0.970141 -0.242543"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_patch"
-	"sides" "728"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-150.674 -152.66 0"
-	"uv1" "-132.964 135.019 0"
-	"uv2" "150.674 152.66 0"
-	"uv3" "132.964 -135.019 0"
-	"origin" "2075.45 -1110.06 1177.27"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7000]"
-	}
-}
-entity
-{
-	"id" "1092587"
-	"classname" "info_overlay"
-	"angles" "0 335.172 0"
-	"BasisNormal" "-0.223657 0.387298 0.894415"
-	"BasisOrigin" "2536 -864 1306.19"
-	"BasisU" "0.845388 -0.379618 0.375779"
-	"BasisV" "0.485074 0.840173 -0.242512"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_patch"
-	"sides" "758"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-118.78 -110.079 0"
-	"uv1" "-94.1782 85.4775 0"
-	"uv2" "118.78 110.079 0"
-	"uv3" "94.1782 -85.4775 0"
-	"origin" "2536 -864 1306.19"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
-	}
-}
-entity
-{
-	"id" "1092629"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "-0.387284 0.223615 0.894431"
-	"BasisOrigin" "2379.28 -1019.68 1278.84"
-	"BasisU" "0.92196 0.0939331 0.37572"
-	"BasisV" "0 0.970141 -0.242543"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_patch"
-	"sides" "728 758"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-64 -64 0"
-	"uv1" "-64 64 0"
-	"uv2" "64 64 0"
-	"uv3" "64 -64 0"
-	"origin" "2379.28 -1019.68 1278.84"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8000]"
-	}
-}
-entity
-{
-	"id" "1092647"
-	"classname" "info_overlay"
-	"angles" "0 315 0"
-	"BasisNormal" "-0.115732 0.431971 0.894431"
-	"BasisOrigin" "2296 -1352 1275.04"
-	"BasisU" "0.718345 -0.585504 0.37572"
-	"BasisV" "0.685993 0.685993 -0.242543"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_patch"
-	"sides" "728 690"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-305.163 -221.153 0"
-	"uv1" "-270.057 173.708 0"
-	"uv2" "305.163 221.153 0"
-	"uv3" "270.057 -173.708 0"
-	"origin" "2296 -1352 1275.04"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
 	}
 }
 entity
