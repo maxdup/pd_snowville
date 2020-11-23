@@ -1,0 +1,5 @@
+Objective:
+To win, pick up gifts from fallen enemies and deposit them in the gift sled whenever it flies in and stops by to score points. 
+
+Other Notes:
+Whoever is holding the highest amount of gifts on each team will dispense health and ammo to nearby teammates through the spirit of giving.
