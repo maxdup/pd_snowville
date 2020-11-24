@@ -5611,7 +5611,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1612 867.641 1356]"
+				"startposition" "[-1612 867.652 1356]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -5781,7 +5781,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1373.46 1093.79 1415.98]"
+				"startposition" "[-1373.47 1093.79 1415.98]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -5940,7 +5940,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1463.55 1145.8 1468]"
+				"startposition" "[-1463.55 1145.81 1468]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8336,7 +8336,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-559.629 496 1210]"
+				"startposition" "[-559.625 496 1210]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8495,7 +8495,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-739.765 600 1106]"
+				"startposition" "[-739.761 600 1106]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8665,7 +8665,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-784.641 690.277 1044.48]"
+				"startposition" "[-784.641 690.27 1044.48]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8813,7 +8813,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-636.988 607.127 1330.53]"
+				"startposition" "[-636.987 607.127 1330.53]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -31254,7 +31254,7 @@ entity
 {
 	"id" "1062247"
 	"classname" "prop_static"
-	"angles" "0 0 -12.5"
+	"angles" "10.3862 176.937 12.4726"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
@@ -31269,7 +31269,7 @@ entity
 	"model" "models/props_forest/cliff_wall_09.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "-766.182 3339.58 818.594"
+	"origin" "-716 3346 800"
 	editor
 	{
 		"color" "255 255 0"
