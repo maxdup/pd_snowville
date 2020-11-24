@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "887"
+	"mapversion" "890"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -123371,7 +123371,7 @@ entity
 	"model" "models/props_forest/icicle_lrg_corner.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "-154 22 1573.42"
+	"origin" "-154 26 1599.42"
 	editor
 	{
 		"color" "255 255 0"
@@ -123443,7 +123443,7 @@ entity
 	"model" "models/props_forest/icicle_lrg_corner.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "1176 19.9998 1566"
+	"origin" "1174 19.9998 1572"
 	editor
 	{
 		"color" "255 255 0"
@@ -123465,7 +123465,7 @@ entity
 	"model" "models/props_forest/icicle_lrg_corner.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "1178 -22.0002 1573.42"
+	"origin" "1176 -36.0002 1599.42"
 	editor
 	{
 		"color" "255 255 0"
