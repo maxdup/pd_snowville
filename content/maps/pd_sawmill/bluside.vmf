@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "487"
+	"mapversion" "491"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "6"
+	"mapversion" "32"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -32232,34 +32232,6 @@ entity
 }
 entity
 {
-	"id" "1105637"
-	"classname" "prop_static"
-	"angles" "6.14879 202.551 -3.71132"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "1400"
-	"fademindist" "1200"
-	"fadescale" "0"
-	"ignorenormals" "0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_arctic/snowmann.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "2339 -445 1032"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8000 -4768]"
-	}
-}
-entity
-{
 	"id" "1106229"
 	"classname" "light_spot"
 	"_cone" "75"
@@ -34343,64 +34315,6 @@ entity
 }
 entity
 {
-	"id" "1106888"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "-0 0 1"
-	"BasisOrigin" "1584 -2192 1136"
-	"BasisU" "1 0 0"
-	"BasisV" "0 1 -0"
-	"EndU" "1.75598"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "2433 2467 2437"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-336 -178.046 0"
-	"uv1" "-336 178.046 0"
-	"uv2" "336 178.046 0"
-	"uv3" "336 -178.046 0"
-	"origin" "1584 -2192 1136"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "1106888"
-	"classname" "info_overlay"
-	"angles" "0 90 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "1216 -2176 1148"
-	"BasisU" "-4.37114e-08 1 0"
-	"BasisV" "-1 -4.37114e-08 0"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_footsteps"
-	"sides" "2395"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-64 -64 0"
-	"uv1" "-64 64 0"
-	"uv2" "64 64 0"
-	"uv3" "64 -64 0"
-	"origin" "1216 -2176 1148"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
 	"id" "1107543"
 	"classname" "prop_static"
 	"angles" "0 330 0"
@@ -34454,35 +34368,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 10500]"
-	}
-}
-entity
-{
-	"id" "1108199"
-	"classname" "info_overlay"
-	"angles" "0 270 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "2091.94 256 1080"
-	"BasisU" "-4.37114e-08 -1 0"
-	"BasisV" "1 -4.37114e-08 0"
-	"EndU" "1.92"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "1236"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-192 -64 0"
-	"uv1" "-192 64 0"
-	"uv2" "192 64 0"
-	"uv3" "192 -64 0"
-	"origin" "2091.94 256 1080"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2000]"
 	}
 }
 entity
@@ -38866,6 +38751,64 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 7000]"
+	}
+}
+entity
+{
+	"id" "1167210"
+	"classname" "info_overlay"
+	"angles" "0 270 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "1561.5 -2118 1136"
+	"BasisU" "-4.37114e-08 -1 0"
+	"BasisV" "1 -4.37114e-08 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "2433 2437 2467"
+	"StartU" "0"
+	"StartV" "2.30078"
+	"uv0" "-128 -294.5 0"
+	"uv1" "-128 294.5 0"
+	"uv2" "128 294.5 0"
+	"uv3" "128 -294.5 0"
+	"origin" "1561.5 -2118 1136"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1167210"
+	"classname" "info_overlay"
+	"angles" "0 180 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "1998 253 1080"
+	"BasisU" "-1 -8.74228e-08 0"
+	"BasisV" "8.74228e-08 -1 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "1236"
+	"StartU" "0"
+	"StartV" "1.47266"
+	"uv0" "-128 -188.5 0"
+	"uv1" "-128 188.5 0"
+	"uv2" "128 188.5 0"
+	"uv3" "128 -188.5 0"
+	"origin" "1998 253 1080"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras

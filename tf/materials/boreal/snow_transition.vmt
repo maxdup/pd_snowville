@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "boreal/snow"
+
+	"$translucent" "1"
+	"$decal" "1"		
+
+	"$surfaceprop" "snow"
+	"%keywords" "tf"
+}

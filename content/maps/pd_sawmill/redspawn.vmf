@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "265"
+	"mapversion" "271"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "5"
+	"mapversion" "30"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -15156,35 +15156,6 @@ entity
 }
 entity
 {
-	"id" "1057882"
-	"classname" "info_overlay"
-	"angles" "75 270 90"
-	"BasisNormal" "-6.48486e-08 0.258819 0.965926"
-	"BasisOrigin" "-868 2164 1139"
-	"BasisU" "7.31306e-08 -0.965926 0.258819"
-	"BasisV" "1 8.74228e-08 4.37114e-08"
-	"EndU" "0"
-	"EndV" "1"
-	"fademindist" "-1"
-	"material" "overlays/snow_footsteps"
-	"sides" "24718 24904"
-	"StartU" "1"
-	"StartV" "0"
-	"uv0" "-52 -36 0"
-	"uv1" "-52 36 0"
-	"uv2" "52 36 0"
-	"uv3" "52 -36 0"
-	"origin" "-868 2164 1139"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
 	"id" "1057753"
 	"classname" "prop_dynamic"
 	"angles" "17.4546 358.39 44.2764"
@@ -27473,122 +27444,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "1066888"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "0 -0 1"
-	"BasisOrigin" "-968 1572 1138.91"
-	"BasisU" "1 0 0"
-	"BasisV" "-0 1 0"
-	"EndU" "2.09242"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "25183 25189 25201 25197"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-252 -123.467 0"
-	"uv1" "-252 123.467 0"
-	"uv2" "252 123.467 0"
-	"uv3" "252 -123.467 0"
-	"origin" "-968 1572 1138.91"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2500]"
-	}
-}
-entity
-{
-	"id" "1066986"
-	"classname" "info_overlay"
-	"angles" "0 90 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-732 1936 1138.91"
-	"BasisU" "-4.37114e-008 1 0"
-	"BasisV" "-1 -4.37114e-008 0"
-	"EndU" "2.61808"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "25189 25197 25201"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-342 -142.387 0"
-	"uv1" "-342 142.387 0"
-	"uv2" "342 142.387 0"
-	"uv3" "342 -142.387 0"
-	"origin" "-732 1936 1138.91"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3000]"
-	}
-}
-entity
-{
-	"id" "1067070"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "0 -0 1"
-	"BasisOrigin" "-1152 1576 1072"
-	"BasisU" "1 0 0"
-	"BasisV" "-0 1 0"
-	"EndU" "3.62022"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "25208 25248 25252"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-436 -123.467 0"
-	"uv1" "-436 123.467 0"
-	"uv2" "436 123.467 0"
-	"uv3" "436 -123.467 0"
-	"origin" "-1152 1576 1072"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2500]"
-	}
-}
-entity
-{
-	"id" "1067076"
-	"classname" "info_overlay"
-	"angles" "0 90 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-728 1975 1072"
-	"BasisU" "-4.37114e-08 1 0"
-	"BasisV" "-1 -4.37114e-08 0"
-	"EndU" "2.61808"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "25208 25237 25226 25220 25248 25252"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-357 -142.387 0"
-	"uv1" "-357 142.387 0"
-	"uv2" "357 142.387 0"
-	"uv3" "357 -142.387 0"
-	"origin" "-728 1975 1072"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3000]"
 	}
 }
 entity
@@ -40952,6 +40807,122 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1092051"
+	"classname" "info_overlay"
+	"angles" "0 270 0"
+	"BasisNormal" "1.96892e-06 -1.73036e-06 1"
+	"BasisOrigin" "-1157 1529 931.034"
+	"BasisU" "1.19215e-08 -1 -1.73036e-06"
+	"BasisV" "1 1.19249e-08 -1.96892e-06"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "25208"
+	"StartU" "0.01"
+	"StartV" "3.21094"
+	"uv0" "-128 -411 0"
+	"uv1" "-128 411 0"
+	"uv2" "128 411 0"
+	"uv3" "128 -411 0"
+	"origin" "-1157 1529 931.034"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1092093"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "1.73036e-06 1.96892e-06 1"
+	"BasisOrigin" "-676 1920 931.032"
+	"BasisU" "1 -3.40693e-12 -1.73036e-06"
+	"BasisV" "0 1 -1.96892e-06"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "25208 25248 25252 25226 25237 25220 25242 25241 25214 25213"
+	"StartU" "0"
+	"StartV" "3.07031"
+	"uv0" "-128 -393 0"
+	"uv1" "-128 393 0"
+	"uv2" "128 393 0"
+	"uv3" "128 -393 0"
+	"origin" "-676 1920 931.032"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "1092169"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "-0 0 1"
+	"BasisOrigin" "-869 1857 1138.91"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 -0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "25189 25197 25201"
+	"StartU" "0"
+	"StartV" "2.14844"
+	"uv0" "-128 -275 0"
+	"uv1" "-128 275 0"
+	"uv2" "128 275 0"
+	"uv3" "128 -275 0"
+	"origin" "-869 1857 1138.91"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "1092271"
+	"classname" "info_overlay"
+	"angles" "0 270 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "-1030 1488 1138.91"
+	"BasisU" "1.31134e-07 -1 0"
+	"BasisV" "1 1.31134e-07 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "25183 25201 25189"
+	"StartU" "0"
+	"StartV" "2.15234"
+	"uv0" "-128 -275.5 0"
+	"uv1" "-128 275.5 0"
+	"uv2" "128 275.5 0"
+	"uv3" "128 -275.5 0"
+	"origin" "-1030 1488 1138.91"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
 	}
 }
 cameras

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "357"
+	"mapversion" "366"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "357"
+	"mapversion" "32"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -5611,7 +5611,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1612 867.652 1356]"
+				"startposition" "[-1612 867.641 1356]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -5781,7 +5781,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1373.47 1093.79 1415.98]"
+				"startposition" "[-1373.46 1093.79 1415.98]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -5940,7 +5940,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-1463.55 1145.81 1468]"
+				"startposition" "[-1463.55 1145.8 1468]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8336,7 +8336,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-559.625 496 1210]"
+				"startposition" "[-559.629 496 1210]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8495,7 +8495,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-739.761 600 1106]"
+				"startposition" "[-739.765 600 1106]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8665,7 +8665,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-784.641 690.27 1044.48]"
+				"startposition" "[-784.641 690.277 1044.48]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8803,7 +8803,7 @@ world
 		side
 		{
 			"id" "14078"
-			"plane" "(-503.016 839.651 1330.53) (-397.352 779.688 1429) (-531.35 546.134 1429.4)"
+			"plane" "(-636.988 607.127 1330.53) (-503.014 839.652 1330.53) (-397.348 780 1429)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[-0.52068 0.599399 -0.607958 782.313] 0.25"
 			"vaxis" "[0.656373 0.736417 0.163905 -124.927] 0.25"
@@ -8813,7 +8813,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-636.987 607.127 1330.53]"
+				"startposition" "[-636.99 607.128 1330.53]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8897,7 +8897,7 @@ world
 		side
 		{
 			"id" "14077"
-			"plane" "(-531.349 546.131 1425) (-531.348 546.133 1429.4) (-397.346 779.691 1429)"
+			"plane" "(-397.349 780 1425) (-531.351 546 1425) (-531.347 546 1429)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 -0.7071 0.7071 -280.625] 0.06"
 			"vaxis" "[0 -0.7071 -0.7071 329.625] 0.06"
@@ -8908,7 +8908,7 @@ world
 		side
 		{
 			"id" "14076"
-			"plane" "(-397.348 779.688 1424.59) (-397.348 779.688 1429) (-503.014 839.652 1330.53)"
+			"plane" "(-498.757 837.236 1330.53) (-397.349 780 1425) (-397.348 780 1429)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 0 1 -122] 0.25"
 			"vaxis" "[0.866 -0.5 0 -290.978] 0.25"
@@ -8919,7 +8919,7 @@ world
 		side
 		{
 			"id" "14075"
-			"plane" "(-636.99 607.128 1330.53) (-531.344 546.133 1429.4) (-531.345 546.131 1425)"
+			"plane" "(-632.763 604.687 1330.53) (-636.988 607.127 1330.53) (-531.347 546 1429)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 0 1 -122] 0.25"
 			"vaxis" "[0.866 -0.5 0 -290.978] 0.25"
@@ -8930,7 +8930,7 @@ world
 		side
 		{
 			"id" "14074"
-			"plane" "(-632.765 604.683 1330.53) (-531.348 546.129 1425) (-397.348 779.684 1424.59)"
+			"plane" "(-498.757 837.236 1330.53) (-632.763 604.687 1330.53) (-531.351 546 1425)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0.5 0.866 0 -118.564] 0.25"
 			"vaxis" "[0.866 -0.5 0 -290.978] 0.25"
@@ -8941,7 +8941,7 @@ world
 		side
 		{
 			"id" "14073"
-			"plane" "(-503.014 839.656 1330.53) (-637 607.128 1330.53) (-632.766 604.684 1330.53)"
+			"plane" "(-498.757 837.236 1330.53) (-503.014 839.652 1330.53) (-636.988 607.127 1330.53)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0.5 0.866 0 -118.564] 0.25"
 			"vaxis" "[0.866 -0.5 0 -290.978] 0.25"
@@ -8962,7 +8962,7 @@ world
 		side
 		{
 			"id" "14084"
-			"plane" "(-431.61 486.386 1330.53) (-427.695 484.125 1330.53) (-293 718.883 1330.53)"
+			"plane" "(-293 718.883 1330.53) (-296.926 721.141 1330.53) (-431.612 486.387 1330.53)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0.5 0.866 0 -118.564] 0.25"
 			"vaxis" "[-0.866 0.5 0 -289.022] 0.25"
@@ -8973,7 +8973,7 @@ world
 		side
 		{
 			"id" "14083"
-			"plane" "(-531.348 546.133 1429) (-397.336 779.711 1429) (-293 718.875 1330.52)"
+			"plane" "(-293 718.883 1330.53) (-427.695 484.125 1330.53) (-531.352 546 1429)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[-0.707107 0.707107 0 -253] 0.25"
 			"vaxis" "[0.707107 0.707107 0 -40] 0.25"
@@ -8983,7 +8983,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-427.695 484.129 1330.53]"
+				"startposition" "[-427.699 484.127 1330.53]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -9067,7 +9067,7 @@ world
 		side
 		{
 			"id" "14082"
-			"plane" "(-397.345 779.691 1425) (-397.338 779.711 1429) (-531.35 546.132 1429)"
+			"plane" "(-531.352 546 1429) (-531.383 546 1425) (-397.343 780 1425)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 -0.7071 0.7071 -280.625] 0.06"
 			"vaxis" "[0 -0.7071 -0.7071 329.625] 0.06"
@@ -9078,7 +9078,7 @@ world
 		side
 		{
 			"id" "14081"
-			"plane" "(-296.926 721.144 1330.53) (-293 718.881 1330.53) (-397.338 779.714 1429)"
+			"plane" "(-397.34 780 1429) (-397.343 780 1425) (-296.926 721.141 1330.53)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 0 1 -122] 0.25"
 			"vaxis" "[-0.866 0.5 0 -289.022] 0.25"
@@ -9089,7 +9089,7 @@ world
 		side
 		{
 			"id" "14080"
-			"plane" "(-427.695 484.129 1330.53) (-431.61 486.39 1330.53) (-531.386 546.065 1425)"
+			"plane" "(-531.383 546 1425) (-531.352 546 1429) (-427.695 484.125 1330.53)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0 0 1 -122] 0.25"
 			"vaxis" "[-0.866 0.5 0 -289.022] 0.25"
@@ -9100,7 +9100,7 @@ world
 		side
 		{
 			"id" "14079"
-			"plane" "(-397.348 779.688 1425) (-531.385 546.065 1425) (-431.609 486.391 1330.53)"
+			"plane" "(-431.612 486.387 1330.53) (-296.926 721.141 1330.53) (-397.343 780 1425)"
 			"material" "BOREAL/BLENDSNOWTODIRT"
 			"uaxis" "[0.5 0.866 0 -118.564] 0.25"
 			"vaxis" "[-0.866 0.5 0 -289.022] 0.25"
@@ -36167,62 +36167,6 @@ entity
 }
 entity
 {
-	"id" "1099210"
-	"classname" "prop_static"
-	"angles" "5.0293 12.856 -3.2763"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "1400"
-	"fademindist" "1200"
-	"fadescale" "0"
-	"ignorenormals" "0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_arctic/snowmann.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-1339 461 1027"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8000 -12268]"
-	}
-}
-entity
-{
-	"id" "1099165"
-	"classname" "prop_static"
-	"angles" "7.4687 283.692 4.389"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "1400"
-	"fademindist" "1200"
-	"fadescale" "0"
-	"ignorenormals" "0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_arctic/snowmann.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "714 1886 935"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8000 -9768]"
-	}
-}
-entity
-{
 	"id" "1099833"
 	"classname" "func_detail"
 	solid
@@ -38389,64 +38333,6 @@ entity
 }
 entity
 {
-	"id" "1124239"
-	"classname" "info_overlay"
-	"angles" "0 270 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-192 2160 1136"
-	"BasisU" "1.31134e-07 -1 0"
-	"BasisV" "1 1.31134e-07 0"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "overlays/snow_footsteps"
-	"sides" "6018"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-64 -64 0"
-	"uv1" "-64 64 0"
-	"uv2" "64 64 0"
-	"uv3" "64 -64 0"
-	"origin" "-192 2160 1136"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "1124269"
-	"classname" "info_overlay"
-	"angles" "0 180 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-574 2202 1136"
-	"BasisU" "-1 -8.74228e-008 0"
-	"BasisV" "8.74228e-008 -1 0"
-	"EndU" "2.34223"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "6351 6345 6433"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-330 -194 0"
-	"uv1" "-330 194 0"
-	"uv2" "330 194 0"
-	"uv3" "330 -194 0"
-	"origin" "-574 2202 1136"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
 	"id" "1107552"
 	"classname" "prop_static"
 	"angles" "0 58.5 0"
@@ -38612,64 +38498,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 8500]"
-	}
-}
-entity
-{
-	"id" "1125638"
-	"classname" "info_overlay"
-	"angles" "0 90 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-1052 -240 1080"
-	"BasisU" "-4.37114e-08 1 0"
-	"BasisV" "-1 -4.37114e-08 0"
-	"EndU" "2"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "5109"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-192 -83.9999 0"
-	"uv1" "-192 83.9999 0"
-	"uv2" "192 83.9999 0"
-	"uv3" "192 -83.9999 0"
-	"origin" "-1052 -240 1080"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2000]"
-	}
-}
-entity
-{
-	"id" "1125729"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "-0 0 1"
-	"BasisOrigin" "-1248 -464 1080"
-	"BasisU" "1 0 0"
-	"BasisV" "0 1 -0"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "arctic/overlay_snow_001"
-	"sides" "5615 5109"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-64 -87.2125 0"
-	"uv1" "-64 87.2125 0"
-	"uv2" "64 87.2125 0"
-	"uv3" "64 -87.2125 0"
-	"origin" "-1248 -464 1080"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2500]"
 	}
 }
 entity
@@ -41097,6 +40925,92 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 6500]"
+	}
+}
+entity
+{
+	"id" "1187016"
+	"classname" "info_overlay"
+	"angles" "0 85.6474 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "-550.5 2108 1136"
+	"BasisU" "0.0348996 0.999391 0"
+	"BasisV" "-0.999391 0.0348996 0"
+	"EndU" "1.00165"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "6351"
+	"StartU" "0"
+	"StartV" "2.33619"
+	"uv0" "-131.841 -293.393 0"
+	"uv1" "-143.138 304.69 0"
+	"uv2" "131.841 293.393 0"
+	"uv3" "143.138 -304.69 0"
+	"origin" "-550.5 2108 1136"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "1186785"
+	"classname" "info_overlay"
+	"BasisNormal" "-0 0 1"
+	"BasisOrigin" "-1250.82 -423.281 1080"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 -0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "overlays/snow_footsteps"
+	"sides" "5109 5615"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-64 -64 0"
+	"uv1" "-64 64 0"
+	"uv2" "64 64 0"
+	"uv3" "64 -64 0"
+	"origin" "-1250.82 -423.281 1080"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2500]"
+	}
+}
+entity
+{
+	"id" "1186797"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "-0 0 1"
+	"BasisOrigin" "-964 -245 1080"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 -0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "boreal/snow_transition"
+	"sides" "5109"
+	"StartU" "0"
+	"StartV" "1.49219"
+	"uv0" "-128 -191 0"
+	"uv1" "-128 191 0"
+	"uv2" "128 191 0"
+	"uv3" "128 -191 0"
+	"origin" "-964 -245 1080"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
 	}
 }
 cameras
