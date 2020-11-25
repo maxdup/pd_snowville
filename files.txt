@@ -1,5 +1,7 @@
-resource/UI/HudObjectivePlayerDestruction_sawmill.res
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\resource/UI/HudObjectivePlayerDestruction_sawmill.res
+maps/pd_snowville_event.nav
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/maps/pd_snowville_event.nav
+resource/UI/HudObjectivePlayerDestruction_snowville_event.res
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\resource/UI/HudObjectivePlayerDestruction_snowville_event.res
 materials/hud/hud_sawmill_gift_red.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_red.vmt
 materials/hud/hud_sawmill_gift_red.vtf
@@ -12,14 +14,18 @@ materials/hud/hud_sawmill_countdownbg.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_countdownbg.vmt
 materials/hud/hud_sawmill_green.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_green.vtf
+materials/hud/hud_sawmill_land.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_land.vmt
 materials/hud/hud_sawmill_land.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_land.vtf
+materials/hud/hud_sawmill_load.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_load.vmt
 materials/hud/hud_sawmill_load.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_load.vtf
-maps/pd_snowville_particles.txt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_particles.txt
-particles/sawmill_particles.pcf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\particles/sawmill_particles.pcf
+maps/pd_snowville_event_particles.txt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_event_particles.txt
+particles/snowville_particles.pcf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\particles/snowville_particles.pcf
 materials/effects/aurora.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/aurora.vmt
 materials/Effects/aurora.vtf
@@ -28,8 +34,8 @@ materials/effects/pd/hud_sawmill_gift_depo.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vmt
 materials/effects/pd/hud_sawmill_gift_depo.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vtf
-maps/pd_snowville_english.txt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_english.txt
+maps/pd_snowville_event_english.txt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_event_english.txt
 models/bots/pyro/deer_pyro.mdl
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.mdl
 models/bots/pyro/deer_pyro.dx80.vtx
@@ -146,10 +152,10 @@ materials/models/props_forest/rock_waterfal2.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vmt
 materials/models/props_forest/rock_waterfal2.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vtf
-materials/SAWMILL/METALDOOR001SCROLL.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SAWMILL/METALDOOR001SCROLL.vmt
-materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
+materials/SNOWVILLE/METALDOOR001SCROLL.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SNOWVILLE/METALDOOR001SCROLL.vmt
+materials/SNOWVILLE/GRAVELCOAL001SCROLL.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SNOWVILLE/GRAVELCOAL001SCROLL.vmt
 materials/boreal/ice_window.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_window.vmt
 materials/boreal/ice_window.vtf
@@ -170,14 +176,14 @@ materials/skybox/sky_stormfront_02rt.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02rt.vmt
 materials/skybox/sky_stormfront_02up.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02up.vmt
-materials/vgui/maps/menu_photos_pd_snowville.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville.vmt
-materials/vgui/maps/menu_photos_pd_snowville.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville.vtf
-materials/vgui/maps/menu_thumb_pd_snowville.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville.vmt
-materials/vgui/maps/menu_thumb_pd_snowville.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville.vtf
+materials/vgui/maps/menu_photos_pd_snowville_event.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville_event.vmt
+materials/vgui/maps/menu_photos_pd_snowville_event.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville_event.vtf
+materials/vgui/maps/menu_thumb_pd_snowville_event.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville_event.vmt
+materials/vgui/maps/menu_thumb_pd_snowville_event.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville_event.vtf
 materials/boreal/ice_snowy.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_snowy.vtf
 materials/boreal/ice_snowy_normal.vtf

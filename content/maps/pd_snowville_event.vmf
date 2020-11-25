@@ -32,7 +32,7 @@ entity
 	"id" "2"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/logic"
+	"file" "pd_snowville_event/logic"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -48,7 +48,7 @@ entity
 	"id" "16"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/bluspawn"
+	"file" "pd_snowville_event/bluspawn"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -64,7 +64,7 @@ entity
 	"id" "26"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/bluside"
+	"file" "pd_snowville_event/bluside"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -80,7 +80,7 @@ entity
 	"id" "39"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/redspawn"
+	"file" "pd_snowville_event/redspawn"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -96,7 +96,7 @@ entity
 	"id" "55"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/redside"
+	"file" "pd_snowville_event/redside"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -112,7 +112,7 @@ entity
 	"id" "68"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/controlpoints"
+	"file" "pd_snowville_event/controlpoints"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -128,7 +128,7 @@ entity
 	"id" "81"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/shell"
+	"file" "pd_snowville_event/shell"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -144,7 +144,7 @@ entity
 	"id" "103"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/skybox"
+	"file" "pd_snowville_event/skybox"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -160,7 +160,7 @@ entity
 	"id" "128"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/soundscape"
+	"file" "pd_snowville_event/soundscape"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -176,7 +176,7 @@ entity
 	"id" "156"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "pd_sawmill/optimization"
+	"file" "pd_snowville_event/optimization"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor

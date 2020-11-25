@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "307"
+	"mapversion" "309"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "9"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -4272,7 +4272,7 @@ entity
 	"points_per_player" "5"
 	"prop_model_name" "models/props_halloween/halloween_gift.mdl"
 	"red_respawn_time" "8"
-	"res_file" "resource/UI/HudObjectivePlayerDestruction_sawmill.res"
+	"res_file" "resource/UI/HudObjectivePlayerDestruction_snowville_event.res"
 	"targetname" "pd_logic"
 	connections
 	{

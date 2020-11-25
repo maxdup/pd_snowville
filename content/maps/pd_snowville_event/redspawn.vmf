@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "271"
+	"mapversion" "273"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "30"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -11807,7 +11807,7 @@ world
 		{
 			"id" "26718"
 			"plane" "(-1552 1804 1000) (-1552 1732 1000) (-1912 1732 1000)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 -368] 0.25"
 			"vaxis" "[1 0 0 224] 0.25"
 			"rotation" "-90"
@@ -11818,7 +11818,7 @@ world
 		{
 			"id" "26717"
 			"plane" "(-1552 1732 992) (-1552 1804 992) (-1912 1804 992)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 -368] 0.25"
 			"vaxis" "[1 0 0 224] 0.25"
 			"rotation" "0"
@@ -11883,7 +11883,7 @@ world
 		{
 			"id" "26724"
 			"plane" "(-1536 1800 1004) (-1536 1736 1004) (-1928 1736 1004)"
-			"material" "SAWMILL/GRAVELCOAL001SCROLL"
+			"material" "SNOWVILLE/GRAVELCOAL001SCROLL"
 			"uaxis" "[0 1 0 -124] 0.272222"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "-90"
@@ -11986,7 +11986,7 @@ world
 		{
 			"id" "26720"
 			"plane" "(-1536 1736 996) (-1928 1736 996) (-1928 1736 1004)"
-			"material" "SAWMILL/GRAVELCOAL001SCROLL"
+			"material" "SNOWVILLE/GRAVELCOAL001SCROLL"
 			"uaxis" "[0 0 1 -507.02] 0.272222"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -12056,7 +12056,7 @@ world
 		{
 			"id" "26719"
 			"plane" "(-1928 1800 996) (-1536 1800 996) (-1536 1800 1004)"
-			"material" "SAWMILL/GRAVELCOAL001SCROLL"
+			"material" "SNOWVILLE/GRAVELCOAL001SCROLL"
 			"uaxis" "[0 0 -1 960.415] 0.272222"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -18289,7 +18289,7 @@ entity
 		{
 			"id" "22554"
 			"plane" "(-1912 1732 976) (-1912 1804 976) (-1552 1804 976)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 656] 0.25"
 			"vaxis" "[-1 0 0 224.004] 0.25"
 			"rotation" "0"
@@ -18300,7 +18300,7 @@ entity
 		{
 			"id" "22553"
 			"plane" "(-1912 1804 968) (-1912 1732 968) (-1552 1732 968)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 656] 0.25"
 			"vaxis" "[-1 0 0 224.004] 0.25"
 			"rotation" "0"
@@ -18409,7 +18409,7 @@ entity
 		{
 			"id" "22561"
 			"plane" "(-1912 1732 1000) (-1918 1732 998.857) (-1918 1804 998.856)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 656] 0.25"
 			"vaxis" "[0.982316 0 0.18723 -660.165] 0.25"
 			"rotation" "0"
@@ -18474,7 +18474,7 @@ entity
 		{
 			"id" "22566"
 			"plane" "(-1918 1732 998.855) (-1923 1732 995.438) (-1923 1804 995.436)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 655.898] 0.25"
 			"vaxis" "[0.825096 0 0.564993 -303.656] 0.25"
 			"rotation" "0"
@@ -20265,7 +20265,7 @@ entity
 		{
 			"id" "22714"
 			"plane" "(-1448 1736 952) (-1520 1736 952) (-1520 2088 952)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 -1 0 -96.0039] 0.25"
 			"rotation" "0"
@@ -20276,7 +20276,7 @@ entity
 		{
 			"id" "22713"
 			"plane" "(-1448 2088 944) (-1520 2088 944) (-1520 1736 944)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.748] 0.25"
 			"vaxis" "[0 -1 0 40.7617] 0.25"
 			"rotation" "0"
@@ -20341,7 +20341,7 @@ entity
 		{
 			"id" "22720"
 			"plane" "(-1448 1736 976) (-1520 1736 976) (-1520 2088 976)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 1 0 544] 0.25"
 			"rotation" "90"
@@ -20352,7 +20352,7 @@ entity
 		{
 			"id" "22719"
 			"plane" "(-1448 2088 968) (-1520 2088 968) (-1520 1736 968)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 1 0 544] 0.25"
 			"rotation" "0"
@@ -20461,7 +20461,7 @@ entity
 		{
 			"id" "22721"
 			"plane" "(-1520 2088 976) (-1520 2094 974.856) (-1448 2094 974.855)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 0.982289 -0.187372 399.423] 0.25"
 			"rotation" "0"
@@ -20526,7 +20526,7 @@ entity
 		{
 			"id" "22726"
 			"plane" "(-1520 2094 974.859) (-1520 2099 971.428) (-1448 2099 971.428)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480.139] 0.25"
 			"vaxis" "[0 0.824788 -0.565442 121] 0.25"
 			"rotation" "0"
@@ -20591,7 +20591,7 @@ entity
 		{
 			"id" "22731"
 			"plane" "(-1520 2099 971.422) (-1520 2103 966.282) (-1448 2103 966.285)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.961] 0.25"
 			"vaxis" "[0 0.613878 -0.789401 714.154] 0.25"
 			"rotation" "0"
@@ -20656,7 +20656,7 @@ entity
 		{
 			"id" "22736"
 			"plane" "(-1520 2103 966.285) (-1520 2104 960) (-1448 2104 960)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.732] 0.25"
 			"vaxis" "[0 0.157127 -0.987578 202.391] 0.25"
 			"rotation" "0"
@@ -20721,7 +20721,7 @@ entity
 		{
 			"id" "22741"
 			"plane" "(-1520 2104 960) (-1520 2103 953.713) (-1448 2103 953.715)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.689] 0.25"
 			"vaxis" "[0 -0.157072 -0.987587 798.721] 0.25"
 			"rotation" "0"
@@ -20786,7 +20786,7 @@ entity
 		{
 			"id" "22746"
 			"plane" "(-1520 2103 953.711) (-1520 2099 948.576) (-1448 2099 948.574)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -480.076] 0.25"
 			"vaxis" "[0 -0.614206 -0.789146 815.207] 0.25"
 			"rotation" "0"
@@ -20851,7 +20851,7 @@ entity
 		{
 			"id" "22751"
 			"plane" "(-1520 2099 948.568) (-1520 2094 945.139) (-1448 2094 945.141)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.631] 0.25"
 			"vaxis" "[0 -0.824642 -0.565655 710.04] 0.25"
 			"rotation" "0"
@@ -20916,7 +20916,7 @@ entity
 		{
 			"id" "22756"
 			"plane" "(-1520 2094 945.144) (-1520 2088 944) (-1448 2088 944)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[1 0 0 -479.734] 0.25"
 			"vaxis" "[0 -0.982406 -0.186755 598.982] 0.25"
 			"rotation" "0"
@@ -23098,7 +23098,7 @@ entity
 		{
 			"id" "22927"
 			"plane" "(-1520 1776 1000) (-1552 1776 1000) (-1552 1804 1000)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 -368] 0.25"
 			"vaxis" "[1 0 0 224] 0.25"
 			"rotation" "0"
@@ -23250,7 +23250,7 @@ entity
 		{
 			"id" "22939"
 			"plane" "(-1552 1732 1000) (-1552 1776 1000) (-1424 1776 1000)"
-			"material" "SAWMILL/METALDOOR001SCROLL"
+			"material" "SNOWVILLE/METALDOOR001SCROLL"
 			"uaxis" "[0 1 0 -368] 0.25"
 			"vaxis" "[1 0 0 224] 0.25"
 			"rotation" "0"
