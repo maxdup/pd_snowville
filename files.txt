@@ -1,234 +1,208 @@
-maps/pd_snowville_v1_particles.txt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\maps/pd_snowville_v1_particles.txt
-particles/xmas_tree.pcf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\particles/xmas_tree.pcf
-materials/effects/animglow02_noz.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/animglow02_noz.vmt
-particles/sawmill_particles.pcf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\particles/sawmill_particles.pcf
-materials/effects/aurora.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/aurora.vmt
-materials/Effects/aurora.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/Effects/aurora.vtf
-materials/effects/pd/hud_sawmill_gift_depo.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vmt
-materials/effects/pd/hud_sawmill_gift_depo.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vtf
-particles/smoke_blackbillow_hoodoo.pcf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\particles/smoke_blackbillow_hoodoo.pcf
-models/bots/pyro/deer_pyro.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.mdl
-models/bots/pyro/deer_pyro.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.dx80.vtx
-models/bots/pyro/deer_pyro.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.dx90.vtx
-models/bots/pyro/deer_pyro.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.phy
-models/bots/pyro/deer_pyro.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.sw.vtx
-models/bots/pyro/deer_pyro.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.vvd
-materials/models/bots/pyro_deer/pyro_bot_red.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_red.vmt
-materials/models/bots/pyro_deer/pyro_bot_gray.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_gray.vtf
-materials/models/bots/pyro_deer/pyro_bot_head.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_head.vmt
-materials/models/bots/pyro_deer/pyro_bot_head.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_head.vtf
-models/props_trainyard/sled_cart_base_separate.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.mdl
-models/props_trainyard/sled_cart_base_separate.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.dx80.vtx
-models/props_trainyard/sled_cart_base_separate.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.dx90.vtx
-models/props_trainyard/sled_cart_base_separate.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.sw.vtx
-models/props_trainyard/sled_cart_base_separate.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.vvd
-models/props_frozen/snow_shovel.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.mdl
-models/props_frozen/snow_shovel.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.dx80.vtx
-models/props_frozen/snow_shovel.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.dx90.vtx
-models/props_frozen/snow_shovel.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.phy
-models/props_frozen/snow_shovel.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.sw.vtx
-models/props_frozen/snow_shovel.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_frozen/snow_shovel.vvd
-materials/models/props_frozen/snow_shovel_blu.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_blu.vmt
-materials/models/props_frozen/snow_shovel_blu.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_blu.vtf
-materials/models/props_frozen/snow_shovel_grey.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_grey.vmt
-materials/models/props_frozen/snow_shovel_grey.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_grey.vtf
-models/props_island/robot/wazer.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.mdl
-models/props_island/robot/wazer.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.dx80.vtx
-models/props_island/robot/wazer.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.dx90.vtx
-models/props_island/robot/wazer.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.phy
-models/props_island/robot/wazer.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.sw.vtx
-models/props_island/robot/wazer.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_island/robot/wazer.vvd
-materials/island/props/wazer/Wazer_01.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/island/props/wazer/Wazer_01.vmt
-materials/Island/props/wazer/wazer_01.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/Island/props/wazer/wazer_01.vtf
-materials/Island/props/wazer/wazer_Normal.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/Island/props/wazer/wazer_Normal.vtf
-models/props_arctic/snowmann.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.mdl
-models/props_arctic/snowmann.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.dx80.vtx
-models/props_arctic/snowmann.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.dx90.vtx
-models/props_arctic/snowmann.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.phy
-models/props_arctic/snowmann.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.sw.vtx
-models/props_arctic/snowmann.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_arctic/snowmann.vvd
-materials/models/props_arctic/snowmann.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann.vmt
-materials/models/props_arctic/snowmann.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann.vtf
-materials/models/props_arctic/snowmann_eyes_blue.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann_eyes_blue.vmt
-materials/models/props_arctic/snowmann_eyes_blue.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann_eyes_blue.vtf
-materials/models/props_arctic/snowmann_eyes.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann_eyes.vmt
-materials/models/props_arctic/snowmann_eyes.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_arctic/snowmann_eyes.vtf
-models/props_forest/rock_waterfall_2.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.mdl
-models/props_forest/rock_waterfall_2.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.dx80.vtx
-models/props_forest/rock_waterfall_2.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.dx90.vtx
-models/props_forest/rock_waterfall_2.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.phy
-models/props_forest/rock_waterfall_2.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.sw.vtx
-models/props_forest/rock_waterfall_2.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.vvd
-materials/models/props_forest/rock_waterfal2.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vmt
-materials/models/props_forest/rock_waterfal2.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vtf
-models/props_birthday/bday01_small.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.mdl
-models/props_birthday/bday01_small.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.dx80.vtx
-models/props_birthday/bday01_small.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.dx90.vtx
-models/props_birthday/bday01_small.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.phy
-models/props_birthday/bday01_small.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.sw.vtx
-models/props_birthday/bday01_small.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday01_small.vvd
-models/props_birthday/bday04_small.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.mdl
-models/props_birthday/bday04_small.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.dx80.vtx
-models/props_birthday/bday04_small.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.dx90.vtx
-models/props_birthday/bday04_small.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.phy
-models/props_birthday/bday04_small.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.sw.vtx
-models/props_birthday/bday04_small.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday04_small.vvd
-models/props_birthday/bday03_small.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.mdl
-models/props_birthday/bday03_small.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.dx80.vtx
-models/props_birthday/bday03_small.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.dx90.vtx
-models/props_birthday/bday03_small.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.phy
-models/props_birthday/bday03_small.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.sw.vtx
-models/props_birthday/bday03_small.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday03_small.vvd
-models/props_birthday/bday02_small.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.mdl
-models/props_birthday/bday02_small.dx80.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.dx80.vtx
-models/props_birthday/bday02_small.dx90.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.dx90.vtx
-models/props_birthday/bday02_small.phy
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.phy
-models/props_birthday/bday02_small.sw.vtx
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.sw.vtx
-models/props_birthday/bday02_small.vvd
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/props_birthday/bday02_small.vvd
-materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
-materials/SAWMILL/METALDOOR001SCROLL.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/SAWMILL/METALDOOR001SCROLL.vmt
-materials/TOOLS/TOOLSBLOCKBULLETSNOVIS.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/TOOLS/TOOLSBLOCKBULLETSNOVIS.vmt
-materials/arctic/overlay_snow_001.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/overlay_snow_001.vmt
-materials/arctic/overlay_snow_001.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/overlay_snow_001.vtf
-materials/arctic/glass_frost.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/glass_frost.vmt
-materials/arctic/glass_frost.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/glass_frost.vtf
-materials/arctic/caution_ice2.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/caution_ice2.vmt
-materials/arctic/caution_ice2.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/caution_ice2.vtf
-materials/arctic/arctic_ice.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/arctic_ice.vmt
-materials/arctic/arctic_ice.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/arctic_ice.vtf
-materials/arctic/arctic_ice_spec.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/arctic/arctic_ice_spec.vtf
-materials/skybox/sky_stormfront_02bk.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02bk.vmt
-materials/skybox/sky_stormfront_02dn.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02dn.vmt
-materials/skybox/sky_stormfront_02ft.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02ft.vmt
-materials/skybox/sky_stormfront_02lf.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02lf.vmt
-materials/skybox/sky_stormfront_02rt.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02rt.vmt
-materials/skybox/sky_stormfront_02up.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02up.vmt
-materials/hud/hud_sawmill_gift_blu.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_blu.vmt
-materials/hud/hud_sawmill_gift_blu.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_blu.vtf
-materials/hud/hud_sawmill_gift_red.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_red.vmt
-materials/hud/hud_sawmill_gift_red.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_red.vtf
-materials/hud/hud_sawmill_land.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_land.vmt
-materials/hud/hud_sawmill_land.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_land.vtf
-materials/hud/hud_sawmill_load.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_load.vmt
-materials/hud/hud_sawmill_load.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\materials/hud/hud_sawmill_load.vtf
 resource/UI/HudObjectivePlayerDestruction_sawmill.res
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\resource/UI/HudObjectivePlayerDestruction_sawmill.res
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\resource/UI/HudObjectivePlayerDestruction_sawmill.res
+materials/hud/hud_sawmill_gift_red.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_red.vmt
+materials/hud/hud_sawmill_gift_red.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_red.vtf
+materials/hud/hud_sawmill_gift_blu.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_blu.vmt
+materials/hud/hud_sawmill_gift_blu.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_gift_blu.vtf
+materials/hud/hud_sawmill_countdownbg.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_countdownbg.vmt
+materials/hud/hud_sawmill_green.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_green.vtf
+materials/hud/hud_sawmill_land.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_land.vtf
+materials/hud/hud_sawmill_load.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/hud/hud_sawmill_load.vtf
+maps/pd_snowville_particles.txt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_particles.txt
+particles/sawmill_particles.pcf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\particles/sawmill_particles.pcf
+materials/effects/aurora.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/aurora.vmt
+materials/Effects/aurora.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/Effects/aurora.vtf
+materials/effects/pd/hud_sawmill_gift_depo.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vmt
+materials/effects/pd/hud_sawmill_gift_depo.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/effects/pd/hud_sawmill_gift_depo.vtf
+maps/pd_snowville_english.txt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/pd_snowville_english.txt
+models/bots/pyro/deer_pyro.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.mdl
+models/bots/pyro/deer_pyro.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.dx80.vtx
+models/bots/pyro/deer_pyro.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.dx90.vtx
+models/bots/pyro/deer_pyro.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.phy
+models/bots/pyro/deer_pyro.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.sw.vtx
+models/bots/pyro/deer_pyro.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro.vvd
+materials/models/bots/pyro_deer/pyro_bot_red.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_red.vmt
+materials/models/bots/pyro_deer/pyro_bot_gray.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_gray.vtf
+materials/models/bots/pyro_deer/pyro_bot_head.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_head.vmt
+materials/models/bots/pyro_deer/pyro_bot_head.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/bots/pyro_deer/pyro_bot_head.vtf
 models/bots/pyro/deer_pyro_animations.mdl
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\models/bots/pyro/deer_pyro_animations.mdl
-materials\nature\blendsnowtodirt010.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\nature\blendsnowtodirt010.vmt
-materials\nature\snow_full005_normal.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\nature\snow_full005_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/bots/pyro/deer_pyro_animations.mdl
+models/props_trainyard/sled_cart_base_separate.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.mdl
+models/props_trainyard/sled_cart_base_separate.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.dx80.vtx
+models/props_trainyard/sled_cart_base_separate.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.dx90.vtx
+models/props_trainyard/sled_cart_base_separate.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.sw.vtx
+models/props_trainyard/sled_cart_base_separate.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_trainyard/sled_cart_base_separate.vvd
+models/props_frozen/snow_shovel.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.mdl
+models/props_frozen/snow_shovel.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.dx80.vtx
+models/props_frozen/snow_shovel.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.dx90.vtx
+models/props_frozen/snow_shovel.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.phy
+models/props_frozen/snow_shovel.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.sw.vtx
+models/props_frozen/snow_shovel.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_frozen/snow_shovel.vvd
+materials/models/props_frozen/snow_shovel_blu.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_blu.vmt
+materials/models/props_frozen/snow_shovel_blu.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_blu.vtf
+materials/models/props_frozen/snow_shovel_grey.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_grey.vmt
+materials/models/props_frozen/snow_shovel_grey.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_frozen/snow_shovel_grey.vtf
+models/props_birthday/bday02_small.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.mdl
+models/props_birthday/bday02_small.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.dx80.vtx
+models/props_birthday/bday02_small.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.dx90.vtx
+models/props_birthday/bday02_small.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.phy
+models/props_birthday/bday02_small.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.sw.vtx
+models/props_birthday/bday02_small.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday02_small.vvd
+models/props_birthday/bday04_small.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.mdl
+models/props_birthday/bday04_small.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.dx80.vtx
+models/props_birthday/bday04_small.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.dx90.vtx
+models/props_birthday/bday04_small.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.phy
+models/props_birthday/bday04_small.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.sw.vtx
+models/props_birthday/bday04_small.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday04_small.vvd
+models/props_birthday/bday03_small.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.mdl
+models/props_birthday/bday03_small.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.dx80.vtx
+models/props_birthday/bday03_small.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.dx90.vtx
+models/props_birthday/bday03_small.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.phy
+models/props_birthday/bday03_small.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.sw.vtx
+models/props_birthday/bday03_small.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday03_small.vvd
+models/props_birthday/bday01_small.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.mdl
+models/props_birthday/bday01_small.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.dx80.vtx
+models/props_birthday/bday01_small.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.dx90.vtx
+models/props_birthday/bday01_small.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.phy
+models/props_birthday/bday01_small.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.sw.vtx
+models/props_birthday/bday01_small.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_birthday/bday01_small.vvd
+models/props_forest/rock_waterfall_2.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.mdl
+models/props_forest/rock_waterfall_2.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.dx80.vtx
+models/props_forest/rock_waterfall_2.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.dx90.vtx
+models/props_forest/rock_waterfall_2.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.phy
+models/props_forest/rock_waterfall_2.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.sw.vtx
+models/props_forest/rock_waterfall_2.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_forest/rock_waterfall_2.vvd
+materials/models/props_forest/rock_waterfal2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vmt
+materials/models/props_forest/rock_waterfal2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vtf
+materials/SAWMILL/METALDOOR001SCROLL.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SAWMILL/METALDOOR001SCROLL.vmt
+materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SAWMILL/GRAVELCOAL001SCROLL.vmt
+materials/boreal/ice_window.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_window.vmt
+materials/boreal/ice_window.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_window.vtf
+materials/boreal/snow_transition.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/snow_transition.vmt
+materials/boreal/snow.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/snow.vtf
+materials/skybox/sky_stormfront_02bk.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02bk.vmt
+materials/skybox/sky_stormfront_02dn.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02dn.vmt
+materials/skybox/sky_stormfront_02ft.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02ft.vmt
+materials/skybox/sky_stormfront_02lf.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02lf.vmt
+materials/skybox/sky_stormfront_02rt.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02rt.vmt
+materials/skybox/sky_stormfront_02up.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/skybox/sky_stormfront_02up.vmt
+materials/vgui/maps/menu_photos_pd_snowville.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville.vmt
+materials/vgui/maps/menu_photos_pd_snowville.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_pd_snowville.vtf
+materials/vgui/maps/menu_thumb_pd_snowville.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville.vmt
+materials/vgui/maps/menu_thumb_pd_snowville.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_thumb_pd_snowville.vtf
+materials/boreal/ice_snowy.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_snowy.vtf
+materials/boreal/ice_snowy_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_snowy_normal.vtf
+materials/boreal/ice.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice.vtf
+materials/boreal/ice_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_normal.vtf
+materials/boreal/blendicetoicesnowy.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/blendicetoicesnowy.vtf
+materials/boreal/snow_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/snow_normal.vtf
+materials/boreal/blendsnowtodirt.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/blendsnowtodirt.vtf
+materials/boreal/blendsnowtoice.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/blendsnowtoice.vtf
+materials/boreal/ice_fracture.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/ice_fracture.vtf
+materials/BOREAL/BLENDICETOICESNOWY.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/BOREAL/BLENDICETOICESNOWY.vmt
+materials/BOREAL/BLENDSNOWTODIRT.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/BOREAL/BLENDSNOWTODIRT.vmt
+materials/BOREAL/BLENDSNOWTOICESNOWY.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/BOREAL/BLENDSNOWTOICESNOWY.vmt
+materials/BOREAL/ICE.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/BOREAL/ICE.vmt
+materials/BOREAL/ICE_FRACTURE.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/BOREAL/ICE_FRACTURE.vmt
