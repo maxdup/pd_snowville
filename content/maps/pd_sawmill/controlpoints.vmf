@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "916"
+	"mapversion" "917"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -61294,6 +61294,169 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "1193463"
+		side
+		{
+			"id" "21611"
+			"plane" "(510 -12 1672) (508 -12 1666) (490 -12 1657)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 0 -1 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21610"
+			"plane" "(486 -4 1665) (490 -4 1657) (508 -4 1666)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 -48] 0.25"
+			"vaxis" "[0 0 -1 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21609"
+			"plane" "(504 -12 1674) (486 -12 1665) (486 -4 1665)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 -1 24] 0.25"
+			"vaxis" "[0 1 0 8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21608"
+			"plane" "(508 -4 1666) (490 -4 1657) (490 -12 1657)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[0 1 0 8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21607"
+			"plane" "(510 -4 1672) (510 -12 1672) (504 -12 1674)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 -48] 0.25"
+			"vaxis" "[0 1 0 8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21606"
+			"plane" "(490 -4 1657) (486 -4 1665) (486 -12 1665)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 1 0 8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21605"
+			"plane" "(510 -12 1672) (510 -4 1672) (508 -4 1666)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 -48] 0.25"
+			"vaxis" "[0 1 0 8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 122 219"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1193464"
+		side
+		{
+			"id" "21617"
+			"plane" "(496 -12 1660) (504 -12 1644) (504 -4 1644)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 1 -32] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21616"
+			"plane" "(504 -4 1664) (512 -4 1648) (512 -12 1648)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 -1 32] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21615"
+			"plane" "(512 -12 1648) (512 -4 1648) (504 -4 1644)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 -1 0 -16] 0.25"
+			"vaxis" "[1 0 0 48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21614"
+			"plane" "(496 -12 1660) (496 -4 1660) (504 -4 1664)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[1 0 0 48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21613"
+			"plane" "(512 -4 1648) (504 -4 1664) (496 -4 1660)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 -1 32] 0.25"
+			"vaxis" "[1 0 0 48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21612"
+			"plane" "(504 -12 1644) (496 -12 1660) (504 -12 1664)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 1 -32] 0.25"
+			"vaxis" "[1 0 0 48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 176 253"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "327"
@@ -118142,7 +118305,7 @@ entity
 	"classname" "info_overlay"
 	"angles" "0 180 0"
 	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-613.22 -543.491 1058.28"
+	"BasisOrigin" "-613.222 -543.494 1056"
 	"BasisU" "-1 -8.74228e-08 0"
 	"BasisV" "8.74228e-08 -1 0"
 	"EndU" "0.2"
