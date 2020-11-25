@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_arctic/snowmann_eyes_blue"
-	
-	"$phong" "1"
-	"$phongexponent" "10"
-	"$phongboost" ".25"	
-	"$phongfresnelranges"	"[.7 15 20]"
-}
