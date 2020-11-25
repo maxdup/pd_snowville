@@ -1,5 +1,4 @@
 particles_manifest
 {
 	file    "!particles/sawmill_particles.pcf"
-	file	"!particles/smoke_blackbillow_hoodoo.pcf"
 }
