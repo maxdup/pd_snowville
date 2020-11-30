@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "61"
+	"mapversion" "63"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "27"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1932,7 +1932,7 @@ world
 		side
 		{
 			"id" "420"
-			"plane" "(702 -196 768) (702 -196 128) (702 -2912 128)"
+			"plane" "(702 -192 768) (702 -192 128) (702 -2912 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -1954,7 +1954,7 @@ world
 		side
 		{
 			"id" "418"
-			"plane" "(320 -196 128) (702 -196 128) (702 -196 768)"
+			"plane" "(320 -192 128) (702 -192 128) (702 -192 768)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1965,7 +1965,7 @@ world
 		side
 		{
 			"id" "417"
-			"plane" "(320 -2912 128) (702 -2912 128) (702 -196 128)"
+			"plane" "(320 -2912 128) (702 -2912 128) (702 -192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -1976,7 +1976,7 @@ world
 		side
 		{
 			"id" "416"
-			"plane" "(320 -196 768) (702 -196 768) (702 -2912 768)"
+			"plane" "(320 -192 768) (702 -192 768) (702 -2912 768)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -1987,7 +1987,7 @@ world
 		side
 		{
 			"id" "415"
-			"plane" "(320 -2912 768) (320 -2912 128) (320 -196 128)"
+			"plane" "(320 -2912 768) (320 -2912 128) (320 -192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -2008,7 +2008,7 @@ world
 		side
 		{
 			"id" "426"
-			"plane" "(320 188 768) (320 188 128) (320 2528 128)"
+			"plane" "(320 192 768) (320 192 128) (320 2528 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -2019,7 +2019,7 @@ world
 		side
 		{
 			"id" "425"
-			"plane" "(702 2528 768) (702 2528 128) (702 188 128)"
+			"plane" "(702 2528 768) (702 2528 128) (702 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -2030,7 +2030,7 @@ world
 		side
 		{
 			"id" "424"
-			"plane" "(702 188 768) (702 188 128) (320 188 128)"
+			"plane" "(702 192 768) (702 192 128) (320 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2052,7 +2052,7 @@ world
 		side
 		{
 			"id" "422"
-			"plane" "(320 2528 128) (320 188 128) (702 188 128)"
+			"plane" "(320 2528 128) (320 192 128) (702 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -2063,7 +2063,7 @@ world
 		side
 		{
 			"id" "421"
-			"plane" "(320 188 768) (320 2528 768) (702 2528 768)"
+			"plane" "(320 192 768) (320 2528 768) (702 2528 768)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3072,7 +3072,7 @@ world
 		side
 		{
 			"id" "571"
-			"plane" "(-128 256 128) (256 256 128) (256 -128 128)"
+			"plane" "(-128 -192 128) (-128 192 128) (704 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3083,7 +3083,7 @@ world
 		side
 		{
 			"id" "572"
-			"plane" "(-128 -128 -256) (256 -128 -256) (256 256 -256)"
+			"plane" "(-128 192 -256) (-128 -192 -256) (704 -192 -256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -3094,7 +3094,7 @@ world
 		side
 		{
 			"id" "573"
-			"plane" "(-128 256 128) (-128 -128 128) (-128 -128 -256)"
+			"plane" "(-128 -192 -256) (-128 192 -256) (-128 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3105,7 +3105,7 @@ world
 		side
 		{
 			"id" "574"
-			"plane" "(256 256 -256) (256 -128 -256) (256 -128 128)"
+			"plane" "(704 192 -256) (704 -192 -256) (704 -192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3116,7 +3116,7 @@ world
 		side
 		{
 			"id" "575"
-			"plane" "(256 256 128) (-128 256 128) (-128 256 -256)"
+			"plane" "(-128 192 -256) (704 192 -256) (704 192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3127,7 +3127,7 @@ world
 		side
 		{
 			"id" "576"
-			"plane" "(256 -128 -256) (-128 -128 -256) (-128 -128 128)"
+			"plane" "(704 -192 -256) (-128 -192 -256) (-128 -192 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "28"
+	"mapversion" "155"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "8"
-	"bShow3DGrid" "0"
+	"nGridSpacing" "4"
+	"bShow3DGrid" "1"
 }
 world
 {
 	"id" "1"
-	"mapversion" "28"
+	"mapversion" "155"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -49,22 +49,6 @@ entity
 	"classname" "func_instance"
 	"angles" "-0 0 0"
 	"file" "pd_snowville_event/bluspawn"
-	"fixup_style" "2"
-	"origin" "0 0 0"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "26"
-	"classname" "func_instance"
-	"angles" "-0 0 0"
-	"file" "pd_snowville_event/bluside"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -192,7 +176,39 @@ entity
 	"id" "193"
 	"classname" "func_instance"
 	"angles" "0 -30 0"
-	"file" "pd_snowville_event/houses"
+	"file" "pd_snowville_event/30degree"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "230"
+	"classname" "func_instance"
+	"angles" "-0 -45 0"
+	"file" "pd_snowville_event/45degree"
+	"fixup_style" "2"
+	"origin" "0 0 4"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "26"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "pd_snowville_event/bluside"
 	"fixup_style" "2"
 	"origin" "0 0 0"
 	editor
@@ -210,6 +226,6 @@ cameras
 cordon
 {
 	"mins" "(-1024 -1024 -1024)"
-	"maxs" "(1024 1024 1024)"
+	"maxs" "(1024 1024 4568)"
 	"active" "0"
 }

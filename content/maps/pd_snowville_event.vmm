@@ -1,6 +1,6 @@
 Info
 {
-	"NextInternalID" "13"
+	"NextInternalID" "16"
 }
 Maps
 {
@@ -63,5 +63,17 @@ Maps
 		"Name" "optimization"
 		"File" "optimization.vmf"
 		"InternalID" "12"
+	}
+	VMF
+	{
+		"Name" "30degree"
+		"File" "30degree.vmf"
+		"InternalID" "14"
+	}
+	VMF
+	{
+		"Name" "45degree"
+		"File" "45degree.vmf"
+		"InternalID" "15"
 	}
 }

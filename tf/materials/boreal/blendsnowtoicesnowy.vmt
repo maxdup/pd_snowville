@@ -13,8 +13,8 @@
 	"$normalmapalphaenvmapmask" 1
 	"$surfaceprop" "snow"
 	
-	"$envmapcontrast" .25
-	"$envmaptint" "[.25 .25 .25]"
+	"$envmapcontrast" .16
+	"$envmaptint" "[.16 .16 .16]"
 	
 	"%keywords" "tf"
 
