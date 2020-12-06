@@ -1,12 +1,9 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "boreal/ice_fracture"
-	//"$envmapmask" "boreal/ice_fracture_spec"
-	"$surfaceprop" "snow"
 	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
 	
-	"$envmapcontrast" .1
-	"$envmaptint" "[.05 .05 .05]"
-	
+	"$surfaceprop" "snow"	
 	"%keywords" "tf"
 }
