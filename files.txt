@@ -152,6 +152,32 @@ materials/models/props_forest/rock_waterfal2.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vmt
 materials/models/props_forest/rock_waterfal2.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_forest/rock_waterfal2.vtf
+models/props_snowville/tree_pine_small.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/models/props_snowville/tree_pine_small.mdl
+models/props_snowville/tree_pine_small.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/models/props_snowville/tree_pine_small.dx80.vtx
+models/props_snowville/tree_pine_small.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/models/props_snowville/tree_pine_small.dx90.vtx
+models/props_snowville/tree_pine_small.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/models/props_snowville/tree_pine_small.sw.vtx
+models/props_snowville/tree_pine_small.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/models/props_snowville/tree_pine_small.vvd
+materials/models/props_snowville/pine_tree_ball_default.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ball_default.vmt
+materials/models/props_snowville/pine_tree_ball_default.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ball_default.vtf
+materials/models/props_snowville/pine_tree_ball_hook.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ball_hook.vmt
+materials/models/props_snowville/pine_tree_ribbon.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ribbon.vmt
+materials/models/props_snowville/pine_tree_ribbon.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ribbon.vtf
+materials/models/props_snowville/pine_tree_large.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_large.vmt
+materials/models/props_snowville/pine_tree_ball_class.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ball_class.vmt
+materials/models/props_snowville/pine_tree_ball_class.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/materials/models/props_snowville/pine_tree_ball_class.vtf
 materials/SNOWVILLE/METALDOOR001SCROLL.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/SNOWVILLE/METALDOOR001SCROLL.vmt
 materials/SNOWVILLE/GRAVELCOAL001SCROLL.vmt
@@ -198,6 +224,8 @@ materials/boreal/snow_normal.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/snow_normal.vtf
 materials/boreal/blendsnowtodirt.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/blendsnowtodirt.vtf
+materials/boreal/dirt_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/dirt_normal.vtf
 materials/boreal/blendsnowtoice.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/boreal/blendsnowtoice.vtf
 materials/boreal/ice_fracture.vtf
