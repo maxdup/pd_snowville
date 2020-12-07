@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_snowville/pine_tree_ribbon"
+	"$nocull" 1
+	
+	"$envmap" "cubemaps/cubemap_gold001"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[2.5 2.5 1.15]"
+}
