@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "717"
+	"mapversion" "720"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "717"
+	"mapversion" "32"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2464,7 +2464,7 @@ world
 		side
 		{
 			"id" "2543"
-			"plane" "(2656 -1928 1574.9) (2656 -1928 1856) (1824 -1928 1856)"
+			"plane" "(2656 -1896 1584) (2656 -1896 1856) (1824 -1896 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2475,7 +2475,7 @@ world
 		side
 		{
 			"id" "2542"
-			"plane" "(1824 -2280 1856) (1824 -1928 1856) (2656 -1928 1856)"
+			"plane" "(1824 -2280 1856) (1824 -1896 1856) (2656 -1896 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -2486,7 +2486,7 @@ world
 		side
 		{
 			"id" "2541"
-			"plane" "(1824 -1928 1574.9) (1824 -2280 1466) (2656 -2280 1466)"
+			"plane" "(1824 -1896 1584) (1824 -2280 1466) (2656 -2280 1466)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -0.964738 -0.263065 24.7808] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -2497,7 +2497,7 @@ world
 		side
 		{
 			"id" "2540"
-			"plane" "(1824 -2280 1466) (1824 -1928 1574.9) (1824 -1928 1856)"
+			"plane" "(1824 -2280 1466) (1824 -1896 1584) (1824 -1896 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -2508,7 +2508,7 @@ world
 		side
 		{
 			"id" "2539"
-			"plane" "(2656 -1928 1574.9) (2656 -2280 1466) (2656 -2280 1856)"
+			"plane" "(2656 -1896 1584) (2656 -2280 1466) (2656 -2280 1856)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 -7] 0.25"
@@ -13742,7 +13742,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_farm/awning002.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1856 -1979.99 1316.5"
 	editor
 	{
@@ -13770,7 +13770,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_farm/awning002.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1856 -1839.99 1316.5"
 	editor
 	{
@@ -40845,7 +40845,7 @@ entity
 	"fademindist" "-1"
 	"material" "boreal/snow_transition"
 	"sides" "6486 2104 2121 2110 2098 2097 2126 2125 6524 6504"
-	"StartU" "0"
+	"StartU" "0.01"
 	"StartV" "4.27344"
 	"uv0" "-128 -547 0"
 	"uv1" "-128 547 0"
@@ -40874,7 +40874,7 @@ entity
 	"fademindist" "-1"
 	"material" "boreal/snow_transition"
 	"sides" "6486"
-	"StartU" "0"
+	"StartU" "0.01"
 	"StartV" "3.71094"
 	"uv0" "-128 -475 0"
 	"uv1" "-128 475 0"
